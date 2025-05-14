@@ -1,0 +1,255 @@
+Brake System:
+data:         802.547-795.000
+Actual:     = 7.547
+Predicted:    7.041
+Diff:       = -506
+
+Hydrolic Pump:
+data:         796.143-795.000
+Actual:     = 1.143
+Predicted:    -250
+Diff:       = NA
+
+Engine:
+data:         821.331-795.000
+Actual:     = 26.331
+Predicted:    3.984
+Diff:       = -22.347
+
+Added maintenance event and predicted again without training,
+next event right when the hydrolic pump had been replaced:
+
+Brake System:
+data:         802.547-796.143
+Actual:     = 6.404
+Predicted:    5,160
+Diff:       = -1.244
+
+Hydrolic Pump :
+data:         810.375-796.143
+Actual:     = 14.232
+Predicted:    12.764
+Diff:       = -1.468
+
+Engine:
+data:         821.331-796.143
+Actual:     = 25.188
+Predicted:    5.180
+Diff:       = -20.008
+
+NEXT EVENT ADDED
+Brake System:
+data:         802.547-798.000
+Actual:     = 4.547
+Predicted:    4.807
+Diff:       = +260
+
+Hydrolic Pump :
+data:         810.375-798.000
+Actual:     = 12.375
+Predicted:    11.521
+Diff:       = -854
+
+Engine:
+data:         821.331-798.000
+Actual:     = 23.331
+Predicted:    886
+Diff:       = -22.445
+
+NEXT EVENT ADDED
+Brake System:
+data:         802.547-801.000
+Actual:     = 1.547
+Predicted:    2.249
+Diff:       = +702
+
+Hydrolic Pump :
+data:         810.375-801.000
+Actual:     = 9.375
+Predicted:    8.192
+Diff:       = -1.183
+
+Engine:
+data:         821.331-801.000
+Actual:     = 20.331
+Predicted:    -79
+Diff:       = NA
+
+NEXT EVENT ADDED
+Brake System:
+data:         802.547-801.000
+Actual:     = 1.547
+Predicted:    2.249
+Diff:       = +702
+
+Hydrolic Pump :
+data:         810.375-801.000
+Actual:     = 9.375
+Predicted:    8.192
+Diff:       = -1.183
+
+Engine:
+data:         821.331-801.000
+Actual:     = 20.331
+Predicted:    -79
+Diff:       = NA
+
+NEXT EVENT ADDED
+Brake System:
+data:         817.191-802.547
+Actual:     = 15.644
+Predicted:    13.899
+Diff:       = -745
+
+Hydrolic Pump :
+data:         810.375-802.547
+Actual:     = 7.828
+Predicted:    7.695
+Diff:       = -133
+
+Engine:
+data:         821.331-802.547
+Actual:     = 18.784
+Predicted:    2.029
+Diff:       = -16.755
+
+
+
+
+
+
+
+
+
+
+CONVEYOR BELT:
+Sensors:
+data:         566743-562335
+Actual:     = 4.408
+Predicted:  = 4.102
+Diff:       = -306
+
+Belt:
+data:         571670-562335
+Actual:     = 9.335
+Predicted:  = 9.516
+Diff:       = +181
+
+Motor:
+data:         567394-562335
+Actual:     = 5.059
+Predicted:  = 7.901
+Diff:       = +2.842
+
+
+
+
+NO SERVICE EXPAND LIFESPAN TESTS:
+
+Brake System:
+data:         636.713-628.246
+Actual:     = 8.467
+Predicted:    5.270
+Diff:       = -506
+
+Hydrolic Pump:
+data:         630.186-628.246
+Actual:     = 1.940
+Predicted:    1.747
+Diff:       = NA
+
+Engine:
+data:         630.112-628.246
+Actual:     = 1.866
+Predicted:    577
+Diff:       = -22.347
+
+NEXT EVENT
+
+Brake System:
+data:         636.713-630.000
+Actual:     = 6.713 
+Predicted:    5.480
+Diff:       = -1.233
+
+Hydrolic Pump:
+data:         630.186-630.000
+Actual:     = 186
+Predicted:    455
+Diff:       = +269
+
+Engine:
+data:         630.112-630.000
+Actual:     = 112
+Predicted:    117
+Diff:       = +5
+
+NEXT EVENT
+
+Brake System:
+data:         636.713-630.112
+Actual:     = 6.601
+Predicted:    5,372
+Diff:       = -1.229
+
+Hydrolic Pump:
+data:         630.186-630.112
+Actual:     = 74
+Predicted:    399
+Diff:       = +325
+
+Engine:
+data:         645.473-630.112
+Actual:     = 15.361
+Predicted:    3.839
+Diff:       = -11.522
+
+
+LOW SERVICE EXPAND LIFE TEST:
+
+Brake System:
+data:         687.255-682.749
+Actual:     = 4.506
+Predicted:    3.863
+Diff:       = -643
+
+Hydrolic Pump:
+data:         697.066-682.749
+Actual:     = 14.317
+Predicted:    7.642
+Diff:       = -6.675
+
+Engine:
+data:         703.286-682.749
+Actual:     = 20.537
+Predicted:    10.844
+Diff:       = -9.693
+
+ADDED NEXT EVENT AND PREDICTED AGAIN:
+
+Brake System:
+data:         687.255-684.000
+Actual:     = 3.255
+Predicted:    2.386
+Diff:       = -869
+
+Hydrolic Pump:
+data:         697.066-684.000
+Actual:     = 13.066
+Predicted:    6.399
+Diff:       = -6.667
+
+Engine:
+data:         703.286-684.000
+Actual:     = 19.286
+Predicted:    11.109
+Diff:       = -8.177
+
+
+537.468-531.702
+5.766
+
+537.468-537.000
+468
+predicted: 548
+

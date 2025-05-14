@@ -1,0 +1,13 @@
+machine_type,component,avg_lifespan
+Conveyor Belt,Belt,8208.307692307691
+Conveyor Belt,Motor,9189.025862068966
+Conveyor Belt,Sensors,5408.401015228426
+Excavator,Brake System,8858.236842105263
+Excavator,Engine,19826.41176470588
+Excavator,Hydraulic Pump,10372.553846153845
+Forklift,Battery,13090.485714285714
+Forklift,Brake System,10054.204379562043
+Forklift,Wiring Harness,14538.663157894736
+Generator,Alternator,14017.805555555555
+Generator,Cooling System,14845.470588235294
+Generator,Wiring Harness,18486.926829268294

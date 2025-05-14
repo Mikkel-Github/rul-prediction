@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "business-server",
+            "type": "al",
+            "request": "launch",
+            "server": "http://34.51.171.192",
+            "serverInstance": "BC",
+            "authentication": "UserPassword",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync"
+        }
+    ],
+    "compounds": []
+}

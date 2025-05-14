@@ -1,0 +1,806 @@
+machine_id,machine_type,active_time,fault_type,repair/replace_type,cost,event_type
+1,Excavator,684000,,Maintenance Service,50,Service
+1,Excavator,687000,,Maintenance Service,50,Service
+1,Excavator,687255,Brake System,Replaced Brake System,200,Failure
+1,Excavator,687755,Hydraulic Pump,Preemptive Replacement of Hydraulic Pump,500,Preemptive Replacement
+1,Excavator,690000,,Maintenance Service,50,Service
+1,Excavator,693000,,Maintenance Service,50,Service
+1,Excavator,696000,,Maintenance Service,50,Service
+1,Excavator,697066,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,697554,Brake System,Replaced Brake System,200,Failure
+1,Excavator,699000,,Maintenance Service,50,Service
+1,Excavator,702000,,Maintenance Service,50,Service
+1,Excavator,703286,Engine,Replaced Engine,1000,Failure
+1,Excavator,703786,Brake System,Preemptive Replacement of Brake System,200,Preemptive Replacement
+1,Excavator,705000,,Maintenance Service,50,Service
+1,Excavator,708000,,Maintenance Service,50,Service
+1,Excavator,708004,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,711000,,Maintenance Service,50,Service
+1,Excavator,712006,Brake System,Replaced Brake System,200,Failure
+1,Excavator,714000,,Maintenance Service,50,Service
+1,Excavator,717000,,Maintenance Service,50,Service
+1,Excavator,718384,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,720000,,Maintenance Service,50,Service
+1,Excavator,722025,Brake System,Replaced Brake System,200,Failure
+1,Excavator,723000,,Maintenance Service,50,Service
+1,Excavator,725861,Engine,Replaced Engine,1000,Failure
+1,Excavator,726000,,Maintenance Service,50,Service
+1,Excavator,729000,,Maintenance Service,50,Service
+1,Excavator,730258,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,730758,Engine,Preemptive Replacement of Engine,1000,Preemptive Replacement
+1,Excavator,731639,Brake System,Replaced Brake System,200,Failure
+1,Excavator,732000,,Maintenance Service,50,Service
+1,Excavator,735000,,Maintenance Service,50,Service
+1,Excavator,738000,,Maintenance Service,50,Service
+1,Excavator,741000,,Maintenance Service,50,Service
+1,Excavator,741267,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,741397,Brake System,Replaced Brake System,200,Failure
+1,Excavator,744000,,Maintenance Service,50,Service
+1,Excavator,745577,Engine,Replaced Engine,1000,Failure
+1,Excavator,747000,,Maintenance Service,50,Service
+1,Excavator,750000,,Maintenance Service,50,Service
+1,Excavator,750061,Brake System,Replaced Brake System,200,Failure
+1,Excavator,751852,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,753000,,Maintenance Service,50,Service
+1,Excavator,756000,,Maintenance Service,50,Service
+1,Excavator,758560,Brake System,Replaced Brake System,200,Failure
+1,Excavator,759000,,Maintenance Service,50,Service
+1,Excavator,762000,,Maintenance Service,50,Service
+1,Excavator,762269,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,762769,Engine,Preemptive Replacement of Engine,1000,Preemptive Replacement
+1,Excavator,765000,,Maintenance Service,50,Service
+1,Excavator,767948,Brake System,Replaced Brake System,200,Failure
+1,Excavator,768000,,Maintenance Service,50,Service
+1,Excavator,771000,,Maintenance Service,50,Service
+1,Excavator,773684,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,774000,,Maintenance Service,50,Service
+1,Excavator,776692,Brake System,Replaced Brake System,200,Failure
+1,Excavator,777000,,Maintenance Service,50,Service
+1,Excavator,779225,Engine,Replaced Engine,1000,Failure
+1,Excavator,780000,,Maintenance Service,50,Service
+1,Excavator,783000,,Maintenance Service,50,Service
+1,Excavator,785576,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,786000,,Maintenance Service,50,Service
+1,Excavator,786783,Brake System,Replaced Brake System,200,Failure
+1,Excavator,789000,,Maintenance Service,50,Service
+1,Excavator,792000,,Maintenance Service,50,Service
+1,Excavator,795000,,Maintenance Service,50,Service
+1,Excavator,795485,Brake System,Replaced Brake System,200,Failure
+1,Excavator,795985,Engine,Preemptive Replacement of Engine,1000,Preemptive Replacement
+1,Excavator,796276,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,798000,,Maintenance Service,50,Service
+1,Excavator,801000,,Maintenance Service,50,Service
+1,Excavator,804000,,Maintenance Service,50,Service
+1,Excavator,804934,Brake System,Replaced Brake System,200,Failure
+1,Excavator,807000,,Maintenance Service,50,Service
+1,Excavator,807299,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,809613,Engine,Replaced Engine,1000,Failure
+1,Excavator,810000,,Maintenance Service,50,Service
+1,Excavator,813000,,Maintenance Service,50,Service
+1,Excavator,814085,Brake System,Replaced Brake System,200,Failure
+1,Excavator,816000,,Maintenance Service,50,Service
+1,Excavator,818308,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,819000,,Maintenance Service,50,Service
+1,Excavator,822000,,Maintenance Service,50,Service
+1,Excavator,823735,Brake System,Replaced Brake System,200,Failure
+1,Excavator,825000,,Maintenance Service,50,Service
+1,Excavator,828000,,Maintenance Service,50,Service
+1,Excavator,829791,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,831000,,Maintenance Service,50,Service
+1,Excavator,831902,Engine,Replaced Engine,1000,Failure
+1,Excavator,832877,Brake System,Replaced Brake System,200,Failure
+1,Excavator,834000,,Maintenance Service,50,Service
+1,Excavator,837000,,Maintenance Service,50,Service
+1,Excavator,840000,,Maintenance Service,50,Service
+1,Excavator,841966,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+1,Excavator,842686,Brake System,Replaced Brake System,200,Failure
+1,Excavator,843000,,Maintenance Service,50,Service
+1,Excavator,846000,,Maintenance Service,50,Service
+1,Excavator,849000,,Maintenance Service,50,Service
+1,Excavator,851723,Brake System,Replaced Brake System,200,Failure
+1,Excavator,852000,,Maintenance Service,50,Service
+1,Excavator,852654,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,672000,,Maintenance Service,50,Service
+2,Excavator,675000,,Maintenance Service,50,Service
+2,Excavator,678000,,Maintenance Service,50,Service
+2,Excavator,678185,Brake System,Replaced Brake System,200,Failure
+2,Excavator,681000,,Maintenance Service,50,Service
+2,Excavator,681360,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,684000,,Maintenance Service,50,Service
+2,Excavator,687000,,Maintenance Service,50,Service
+2,Excavator,687437,Brake System,Replaced Brake System,200,Failure
+2,Excavator,688449,Engine,Replaced Engine,1000,Failure
+2,Excavator,690000,,Maintenance Service,50,Service
+2,Excavator,693000,,Maintenance Service,50,Service
+2,Excavator,693515,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,695733,Brake System,Replaced Brake System,200,Failure
+2,Excavator,696000,,Maintenance Service,50,Service
+2,Excavator,699000,,Maintenance Service,50,Service
+2,Excavator,702000,,Maintenance Service,50,Service
+2,Excavator,704838,Brake System,Replaced Brake System,200,Failure
+2,Excavator,705000,,Maintenance Service,50,Service
+2,Excavator,705613,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,706113,Brake System,Preemptive Replacement of Brake System,200,Preemptive Replacement
+2,Excavator,708000,,Maintenance Service,50,Service
+2,Excavator,711000,,Maintenance Service,50,Service
+2,Excavator,713474,Brake System,Replaced Brake System,200,Failure
+2,Excavator,714000,,Maintenance Service,50,Service
+2,Excavator,715544,Engine,Replaced Engine,1000,Failure
+2,Excavator,716044,Engine,Preemptive Replacement of Engine,1000,Preemptive Replacement
+2,Excavator,717000,,Maintenance Service,50,Service
+2,Excavator,717047,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,720000,,Maintenance Service,50,Service
+2,Excavator,722412,Brake System,Replaced Brake System,200,Failure
+2,Excavator,723000,,Maintenance Service,50,Service
+2,Excavator,726000,,Maintenance Service,50,Service
+2,Excavator,728011,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,729000,,Maintenance Service,50,Service
+2,Excavator,732000,,Maintenance Service,50,Service
+2,Excavator,732489,Engine,Replaced Engine,1000,Failure
+2,Excavator,732510,Brake System,Replaced Brake System,200,Failure
+2,Excavator,735000,,Maintenance Service,50,Service
+2,Excavator,738000,,Maintenance Service,50,Service
+2,Excavator,739930,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,741000,,Maintenance Service,50,Service
+2,Excavator,741930,Brake System,Replaced Brake System,200,Failure
+2,Excavator,744000,,Maintenance Service,50,Service
+2,Excavator,747000,,Maintenance Service,50,Service
+2,Excavator,750000,,Maintenance Service,50,Service
+2,Excavator,750659,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,751201,Brake System,Replaced Brake System,200,Failure
+2,Excavator,753000,,Maintenance Service,50,Service
+2,Excavator,756000,,Maintenance Service,50,Service
+2,Excavator,756636,Engine,Replaced Engine,1000,Failure
+2,Excavator,759000,,Maintenance Service,50,Service
+2,Excavator,761283,Brake System,Replaced Brake System,200,Failure
+2,Excavator,762000,,Maintenance Service,50,Service
+2,Excavator,762440,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,765000,,Maintenance Service,50,Service
+2,Excavator,768000,,Maintenance Service,50,Service
+2,Excavator,771000,,Maintenance Service,50,Service
+2,Excavator,771010,Brake System,Replaced Brake System,200,Failure
+2,Excavator,774000,,Maintenance Service,50,Service
+2,Excavator,774548,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,777000,,Maintenance Service,50,Service
+2,Excavator,779708,Brake System,Replaced Brake System,200,Failure
+2,Excavator,780000,,Maintenance Service,50,Service
+2,Excavator,781804,Engine,Replaced Engine,1000,Failure
+2,Excavator,783000,,Maintenance Service,50,Service
+2,Excavator,786000,,Maintenance Service,50,Service
+2,Excavator,786767,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,788583,Brake System,Replaced Brake System,200,Failure
+2,Excavator,789000,,Maintenance Service,50,Service
+2,Excavator,789083,Brake System,Preemptive Replacement of Brake System,200,Preemptive Replacement
+2,Excavator,792000,,Maintenance Service,50,Service
+2,Excavator,795000,,Maintenance Service,50,Service
+2,Excavator,797564,Brake System,Replaced Brake System,200,Failure
+2,Excavator,798000,,Maintenance Service,50,Service
+2,Excavator,798471,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,801000,,Maintenance Service,50,Service
+2,Excavator,804000,,Maintenance Service,50,Service
+2,Excavator,806915,Brake System,Replaced Brake System,200,Failure
+2,Excavator,807000,,Maintenance Service,50,Service
+2,Excavator,808309,Engine,Replaced Engine,1000,Failure
+2,Excavator,810000,,Maintenance Service,50,Service
+2,Excavator,810061,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,813000,,Maintenance Service,50,Service
+2,Excavator,816000,,Maintenance Service,50,Service
+2,Excavator,816708,Brake System,Replaced Brake System,200,Failure
+2,Excavator,819000,,Maintenance Service,50,Service
+2,Excavator,821760,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,822000,,Maintenance Service,50,Service
+2,Excavator,825000,,Maintenance Service,50,Service
+2,Excavator,827043,Brake System,Replaced Brake System,200,Failure
+2,Excavator,828000,,Maintenance Service,50,Service
+2,Excavator,831000,,Maintenance Service,50,Service
+2,Excavator,832913,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+2,Excavator,834000,,Maintenance Service,50,Service
+2,Excavator,835459,Brake System,Replaced Brake System,200,Failure
+2,Excavator,837000,,Maintenance Service,50,Service
+2,Excavator,837507,Engine,Replaced Engine,1000,Failure
+2,Excavator,840000,,Maintenance Service,50,Service
+2,Excavator,843000,,Maintenance Service,50,Service
+2,Excavator,843656,Hydraulic Pump,Replaced Hydraulic Pump,500,Failure
+3,Forklift,702000,,Maintenance Service,50,Service
+3,Forklift,705000,,Maintenance Service,50,Service
+3,Forklift,706392,Battery,Replaced Battery,150,Failure
+3,Forklift,707228,Brake System,Replaced Brake System,200,Failure
+3,Forklift,708000,,Maintenance Service,50,Service
+3,Forklift,711000,,Maintenance Service,50,Service
+3,Forklift,712159,Wiring Harness,Replaced Wiring Harness,300,Failure
+3,Forklift,714000,,Maintenance Service,50,Service
+3,Forklift,716841,Brake System,Replaced Brake System,200,Failure
+3,Forklift,717000,,Maintenance Service,50,Service
+3,Forklift,720000,,Maintenance Service,50,Service
+3,Forklift,720332,Battery,Replaced Battery,150,Failure
+3,Forklift,720832,Battery,Preemptive Replacement of Battery,150,Preemptive Replacement
+3,Forklift,723000,,Maintenance Service,50,Service
+3,Forklift,726000,,Maintenance Service,50,Service
+3,Forklift,727122,Wiring Harness,Replaced Wiring Harness,300,Failure
+3,Forklift,727325,Brake System,Replaced Brake System,200,Failure
+3,Forklift,727825,Wiring Harness,Preemptive Replacement of Wiring Harness,300,Preemptive Replacement
+3,Forklift,729000,,Maintenance Service,50,Service
+3,Forklift,732000,,Maintenance Service,50,Service
+3,Forklift,733385,Battery,Replaced Battery,150,Failure
+3,Forklift,735000,,Maintenance Service,50,Service
+3,Forklift,738000,,Maintenance Service,50,Service
+3,Forklift,738112,Brake System,Replaced Brake System,200,Failure
+3,Forklift,741000,,Maintenance Service,50,Service
+3,Forklift,741451,Wiring Harness,Replaced Wiring Harness,300,Failure
+3,Forklift,744000,,Maintenance Service,50,Service
+3,Forklift,746047,Battery,Replaced Battery,150,Failure
+3,Forklift,747000,,Maintenance Service,50,Service
+3,Forklift,748232,Brake System,Replaced Brake System,200,Failure
+3,Forklift,750000,,Maintenance Service,50,Service
+3,Forklift,753000,,Maintenance Service,50,Service
+3,Forklift,756000,,Maintenance Service,50,Service
+3,Forklift,757763,Brake System,Replaced Brake System,200,Failure
+3,Forklift,758263,Battery,Preemptive Replacement of Battery,150,Preemptive Replacement
+3,Forklift,758382,Wiring Harness,Replaced Wiring Harness,300,Failure
+3,Forklift,759000,,Maintenance Service,50,Service
+3,Forklift,762000,,Maintenance Service,50,Service
+3,Forklift,765000,,Maintenance Service,50,Service
+3,Forklift,768000,,Maintenance Service,50,Service
+3,Forklift,768601,Brake System,Replaced Brake System,200,Failure
+3,Forklift,769101,Battery,Preemptive Replacement of Battery,150,Preemptive Replacement
+3,Forklift,771000,,Maintenance Service,50,Service
+3,Forklift,774000,,Maintenance Service,50,Service
+3,Forklift,774849,Wiring Harness,Replaced Wiring Harness,300,Failure
+3,Forklift,777000,,Maintenance Service,50,Service
+3,Forklift,780000,,Maintenance Service,50,Service
+3,Forklift,780599,Brake System,Replaced Brake System,200,Failure
+3,Forklift,781363,Battery,Replaced Battery,150,Failure
+3,Forklift,783000,,Maintenance Service,50,Service
+3,Forklift,786000,,Maintenance Service,50,Service
+3,Forklift,789000,,Maintenance Service,50,Service
+3,Forklift,792000,,Maintenance Service,50,Service
+3,Forklift,792063,Wiring Harness,Replaced Wiring Harness,300,Failure
+3,Forklift,792786,Brake System,Replaced Brake System,200,Failure
+3,Forklift,794313,Battery,Replaced Battery,150,Failure
+3,Forklift,795000,,Maintenance Service,50,Service
+3,Forklift,798000,,Maintenance Service,50,Service
+3,Forklift,801000,,Maintenance Service,50,Service
+3,Forklift,804000,,Maintenance Service,50,Service
+3,Forklift,805104,Brake System,Replaced Brake System,200,Failure
+3,Forklift,807000,,Maintenance Service,50,Service
+3,Forklift,808016,Battery,Replaced Battery,150,Failure
+3,Forklift,808516,Battery,Preemptive Replacement of Battery,150,Preemptive Replacement
+3,Forklift,808714,Wiring Harness,Replaced Wiring Harness,300,Failure
+3,Forklift,810000,,Maintenance Service,50,Service
+3,Forklift,813000,,Maintenance Service,50,Service
+3,Forklift,815776,Brake System,Replaced Brake System,200,Failure
+3,Forklift,816000,,Maintenance Service,50,Service
+3,Forklift,819000,,Maintenance Service,50,Service
+3,Forklift,821606,Battery,Replaced Battery,150,Failure
+3,Forklift,822000,,Maintenance Service,50,Service
+3,Forklift,825000,,Maintenance Service,50,Service
+3,Forklift,825258,Wiring Harness,Replaced Wiring Harness,300,Failure
+3,Forklift,826658,Brake System,Replaced Brake System,200,Failure
+3,Forklift,828000,,Maintenance Service,50,Service
+3,Forklift,831000,,Maintenance Service,50,Service
+3,Forklift,834000,,Maintenance Service,50,Service
+3,Forklift,836653,Battery,Replaced Battery,150,Failure
+3,Forklift,837000,,Maintenance Service,50,Service
+3,Forklift,837410,Brake System,Replaced Brake System,200,Failure
+3,Forklift,840000,,Maintenance Service,50,Service
+3,Forklift,841190,Wiring Harness,Replaced Wiring Harness,300,Failure
+3,Forklift,843000,,Maintenance Service,50,Service
+3,Forklift,846000,,Maintenance Service,50,Service
+3,Forklift,848709,Brake System,Replaced Brake System,200,Failure
+3,Forklift,849000,,Maintenance Service,50,Service
+3,Forklift,849209,Wiring Harness,Preemptive Replacement of Wiring Harness,300,Preemptive Replacement
+3,Forklift,852000,,Maintenance Service,50,Service
+3,Forklift,852248,Battery,Replaced Battery,150,Failure
+3,Forklift,852748,Wiring Harness,Preemptive Replacement of Wiring Harness,300,Preemptive Replacement
+3,Forklift,855000,,Maintenance Service,50,Service
+3,Forklift,858000,,Maintenance Service,50,Service
+3,Forklift,859942,Brake System,Replaced Brake System,200,Failure
+3,Forklift,861000,,Maintenance Service,50,Service
+3,Forklift,864000,,Maintenance Service,50,Service
+3,Forklift,867000,,Maintenance Service,50,Service
+3,Forklift,868089,Wiring Harness,Replaced Wiring Harness,300,Failure
+3,Forklift,868518,Battery,Replaced Battery,150,Failure
+3,Forklift,870000,,Maintenance Service,50,Service
+3,Forklift,872028,Brake System,Replaced Brake System,200,Failure
+4,Forklift,691320,Brake System,Replaced Brake System,200,Failure
+4,Forklift,692331,Battery,Replaced Battery,150,Failure
+4,Forklift,693000,,Maintenance Service,50,Service
+4,Forklift,696000,,Maintenance Service,50,Service
+4,Forklift,699000,,Maintenance Service,50,Service
+4,Forklift,699311,Wiring Harness,Replaced Wiring Harness,300,Failure
+4,Forklift,701628,Brake System,Replaced Brake System,200,Failure
+4,Forklift,702000,,Maintenance Service,50,Service
+4,Forklift,705000,,Maintenance Service,50,Service
+4,Forklift,705916,Battery,Replaced Battery,150,Failure
+4,Forklift,708000,,Maintenance Service,50,Service
+4,Forklift,711000,,Maintenance Service,50,Service
+4,Forklift,711606,Brake System,Replaced Brake System,200,Failure
+4,Forklift,713813,Wiring Harness,Replaced Wiring Harness,300,Failure
+4,Forklift,714000,,Maintenance Service,50,Service
+4,Forklift,717000,,Maintenance Service,50,Service
+4,Forklift,719460,Battery,Replaced Battery,150,Failure
+4,Forklift,720000,,Maintenance Service,50,Service
+4,Forklift,723000,,Maintenance Service,50,Service
+4,Forklift,723587,Brake System,Replaced Brake System,200,Failure
+4,Forklift,726000,,Maintenance Service,50,Service
+4,Forklift,729000,,Maintenance Service,50,Service
+4,Forklift,729992,Wiring Harness,Replaced Wiring Harness,300,Failure
+4,Forklift,732000,,Maintenance Service,50,Service
+4,Forklift,734398,Battery,Replaced Battery,150,Failure
+4,Forklift,734665,Brake System,Replaced Brake System,200,Failure
+4,Forklift,735000,,Maintenance Service,50,Service
+4,Forklift,738000,,Maintenance Service,50,Service
+4,Forklift,741000,,Maintenance Service,50,Service
+4,Forklift,744000,,Maintenance Service,50,Service
+4,Forklift,745798,Brake System,Replaced Brake System,200,Failure
+4,Forklift,746973,Wiring Harness,Replaced Wiring Harness,300,Failure
+4,Forklift,747000,,Maintenance Service,50,Service
+4,Forklift,748787,Battery,Replaced Battery,150,Failure
+4,Forklift,750000,,Maintenance Service,50,Service
+4,Forklift,753000,,Maintenance Service,50,Service
+4,Forklift,755889,Brake System,Replaced Brake System,200,Failure
+4,Forklift,756000,,Maintenance Service,50,Service
+4,Forklift,759000,,Maintenance Service,50,Service
+4,Forklift,761221,Wiring Harness,Replaced Wiring Harness,300,Failure
+4,Forklift,761721,Brake System,Preemptive Replacement of Brake System,200,Preemptive Replacement
+4,Forklift,762000,,Maintenance Service,50,Service
+4,Forklift,764421,Battery,Replaced Battery,150,Failure
+4,Forklift,765000,,Maintenance Service,50,Service
+4,Forklift,768000,,Maintenance Service,50,Service
+4,Forklift,769227,Brake System,Replaced Brake System,200,Failure
+4,Forklift,771000,,Maintenance Service,50,Service
+4,Forklift,774000,,Maintenance Service,50,Service
+4,Forklift,776819,Wiring Harness,Replaced Wiring Harness,300,Failure
+4,Forklift,777000,,Maintenance Service,50,Service
+4,Forklift,777973,Battery,Replaced Battery,150,Failure
+4,Forklift,779264,Brake System,Replaced Brake System,200,Failure
+4,Forklift,780000,,Maintenance Service,50,Service
+4,Forklift,783000,,Maintenance Service,50,Service
+4,Forklift,786000,,Maintenance Service,50,Service
+4,Forklift,789000,,Maintenance Service,50,Service
+4,Forklift,789879,Brake System,Replaced Brake System,200,Failure
+4,Forklift,791507,Battery,Replaced Battery,150,Failure
+4,Forklift,792000,,Maintenance Service,50,Service
+4,Forklift,793320,Wiring Harness,Replaced Wiring Harness,300,Failure
+4,Forklift,795000,,Maintenance Service,50,Service
+4,Forklift,798000,,Maintenance Service,50,Service
+4,Forklift,801000,,Maintenance Service,50,Service
+4,Forklift,801206,Brake System,Replaced Brake System,200,Failure
+4,Forklift,804000,,Maintenance Service,50,Service
+4,Forklift,804576,Battery,Replaced Battery,150,Failure
+4,Forklift,807000,,Maintenance Service,50,Service
+4,Forklift,809168,Wiring Harness,Replaced Wiring Harness,300,Failure
+4,Forklift,810000,,Maintenance Service,50,Service
+4,Forklift,812327,Brake System,Replaced Brake System,200,Failure
+4,Forklift,813000,,Maintenance Service,50,Service
+4,Forklift,816000,,Maintenance Service,50,Service
+4,Forklift,819000,,Maintenance Service,50,Service
+4,Forklift,820358,Battery,Replaced Battery,150,Failure
+4,Forklift,822000,,Maintenance Service,50,Service
+4,Forklift,822123,Brake System,Replaced Brake System,200,Failure
+4,Forklift,824808,Wiring Harness,Replaced Wiring Harness,300,Failure
+4,Forklift,825000,,Maintenance Service,50,Service
+4,Forklift,825308,Wiring Harness,Preemptive Replacement of Wiring Harness,300,Preemptive Replacement
+4,Forklift,828000,,Maintenance Service,50,Service
+4,Forklift,831000,,Maintenance Service,50,Service
+4,Forklift,832532,Brake System,Replaced Brake System,200,Failure
+4,Forklift,833796,Battery,Replaced Battery,150,Failure
+4,Forklift,834000,,Maintenance Service,50,Service
+4,Forklift,837000,,Maintenance Service,50,Service
+4,Forklift,839762,Wiring Harness,Replaced Wiring Harness,300,Failure
+4,Forklift,840000,,Maintenance Service,50,Service
+4,Forklift,841928,Brake System,Replaced Brake System,200,Failure
+4,Forklift,843000,,Maintenance Service,50,Service
+4,Forklift,846000,,Maintenance Service,50,Service
+4,Forklift,848291,Battery,Replaced Battery,150,Failure
+4,Forklift,849000,,Maintenance Service,50,Service
+4,Forklift,851559,Brake System,Replaced Brake System,200,Failure
+4,Forklift,852000,,Maintenance Service,50,Service
+4,Forklift,855000,,Maintenance Service,50,Service
+4,Forklift,855065,Wiring Harness,Replaced Wiring Harness,300,Failure
+4,Forklift,858000,,Maintenance Service,50,Service
+4,Forklift,861000,,Maintenance Service,50,Service
+4,Forklift,861249,Brake System,Replaced Brake System,200,Failure
+4,Forklift,863097,Battery,Replaced Battery,150,Failure
+5,Generator,770169,Alternator,Replaced Alternator,700,Failure
+5,Generator,771000,,Maintenance Service,50,Service
+5,Generator,774000,,Maintenance Service,50,Service
+5,Generator,775165,Cooling System,Replaced Cooling System,400,Failure
+5,Generator,777000,,Maintenance Service,50,Service
+5,Generator,779621,Wiring Harness,Replaced Wiring Harness,300,Failure
+5,Generator,780000,,Maintenance Service,50,Service
+5,Generator,783000,,Maintenance Service,50,Service
+5,Generator,783768,Alternator,Replaced Alternator,700,Failure
+5,Generator,786000,,Maintenance Service,50,Service
+5,Generator,789000,,Maintenance Service,50,Service
+5,Generator,792000,,Maintenance Service,50,Service
+5,Generator,792609,Cooling System,Replaced Cooling System,400,Failure
+5,Generator,795000,,Maintenance Service,50,Service
+5,Generator,798000,,Maintenance Service,50,Service
+5,Generator,798273,Wiring Harness,Replaced Wiring Harness,300,Failure
+5,Generator,798819,Alternator,Replaced Alternator,700,Failure
+5,Generator,801000,,Maintenance Service,50,Service
+5,Generator,804000,,Maintenance Service,50,Service
+5,Generator,807000,,Maintenance Service,50,Service
+5,Generator,810000,,Maintenance Service,50,Service
+5,Generator,810939,Cooling System,Replaced Cooling System,400,Failure
+5,Generator,811439,Alternator,Preemptive Replacement of Alternator,700,Preemptive Replacement
+5,Generator,813000,,Maintenance Service,50,Service
+5,Generator,816000,,Maintenance Service,50,Service
+5,Generator,816176,Wiring Harness,Replaced Wiring Harness,300,Failure
+5,Generator,819000,,Maintenance Service,50,Service
+5,Generator,822000,,Maintenance Service,50,Service
+5,Generator,824024,Alternator,Replaced Alternator,700,Failure
+5,Generator,824524,Alternator,Preemptive Replacement of Alternator,700,Preemptive Replacement
+5,Generator,825000,,Maintenance Service,50,Service
+5,Generator,827087,Cooling System,Replaced Cooling System,400,Failure
+5,Generator,828000,,Maintenance Service,50,Service
+5,Generator,831000,,Maintenance Service,50,Service
+5,Generator,834000,,Maintenance Service,50,Service
+5,Generator,834345,Wiring Harness,Replaced Wiring Harness,300,Failure
+5,Generator,834845,Wiring Harness,Preemptive Replacement of Wiring Harness,300,Preemptive Replacement
+5,Generator,837000,,Maintenance Service,50,Service
+5,Generator,838245,Alternator,Replaced Alternator,700,Failure
+5,Generator,840000,,Maintenance Service,50,Service
+5,Generator,841589,Cooling System,Replaced Cooling System,400,Failure
+5,Generator,843000,,Maintenance Service,50,Service
+5,Generator,846000,,Maintenance Service,50,Service
+5,Generator,849000,,Maintenance Service,50,Service
+5,Generator,849905,Wiring Harness,Replaced Wiring Harness,300,Failure
+5,Generator,852000,,Maintenance Service,50,Service
+5,Generator,854213,Alternator,Replaced Alternator,700,Failure
+5,Generator,855000,,Maintenance Service,50,Service
+5,Generator,857483,Cooling System,Replaced Cooling System,400,Failure
+5,Generator,858000,,Maintenance Service,50,Service
+5,Generator,861000,,Maintenance Service,50,Service
+5,Generator,864000,,Maintenance Service,50,Service
+5,Generator,867000,,Maintenance Service,50,Service
+5,Generator,867738,Wiring Harness,Replaced Wiring Harness,300,Failure
+5,Generator,868637,Alternator,Replaced Alternator,700,Failure
+5,Generator,869137,Cooling System,Preemptive Replacement of Cooling System,400,Preemptive Replacement
+5,Generator,870000,,Maintenance Service,50,Service
+5,Generator,873000,,Maintenance Service,50,Service
+5,Generator,876000,,Maintenance Service,50,Service
+5,Generator,879000,,Maintenance Service,50,Service
+5,Generator,880887,Cooling System,Replaced Cooling System,400,Failure
+5,Generator,882000,,Maintenance Service,50,Service
+5,Generator,884080,Alternator,Replaced Alternator,700,Failure
+5,Generator,885000,,Maintenance Service,50,Service
+5,Generator,885990,Wiring Harness,Replaced Wiring Harness,300,Failure
+5,Generator,888000,,Maintenance Service,50,Service
+5,Generator,891000,,Maintenance Service,50,Service
+5,Generator,894000,,Maintenance Service,50,Service
+5,Generator,894741,Cooling System,Replaced Cooling System,400,Failure
+5,Generator,897000,,Maintenance Service,50,Service
+5,Generator,900000,,Maintenance Service,50,Service
+5,Generator,900496,Alternator,Replaced Alternator,700,Failure
+5,Generator,903000,,Maintenance Service,50,Service
+5,Generator,905560,Wiring Harness,Replaced Wiring Harness,300,Failure
+5,Generator,906000,,Maintenance Service,50,Service
+5,Generator,909000,,Maintenance Service,50,Service
+5,Generator,911291,Cooling System,Replaced Cooling System,400,Failure
+5,Generator,912000,,Maintenance Service,50,Service
+5,Generator,915000,,Maintenance Service,50,Service
+5,Generator,915565,Alternator,Replaced Alternator,700,Failure
+5,Generator,918000,,Maintenance Service,50,Service
+5,Generator,921000,,Maintenance Service,50,Service
+5,Generator,923605,Wiring Harness,Replaced Wiring Harness,300,Failure
+5,Generator,924000,,Maintenance Service,50,Service
+5,Generator,926198,Cooling System,Replaced Cooling System,400,Failure
+5,Generator,927000,,Maintenance Service,50,Service
+5,Generator,930000,,Maintenance Service,50,Service
+5,Generator,930336,Alternator,Replaced Alternator,700,Failure
+5,Generator,933000,,Maintenance Service,50,Service
+5,Generator,936000,,Maintenance Service,50,Service
+5,Generator,939000,,Maintenance Service,50,Service
+5,Generator,942000,,Maintenance Service,50,Service
+5,Generator,942419,Cooling System,Replaced Cooling System,400,Failure
+5,Generator,943990,Wiring Harness,Replaced Wiring Harness,300,Failure
+5,Generator,944547,Alternator,Replaced Alternator,700,Failure
+5,Generator,945000,,Maintenance Service,50,Service
+5,Generator,948000,,Maintenance Service,50,Service
+5,Generator,951000,,Maintenance Service,50,Service
+5,Generator,954000,,Maintenance Service,50,Service
+5,Generator,957000,,Maintenance Service,50,Service
+5,Generator,958371,Cooling System,Replaced Cooling System,400,Failure
+6,Generator,762000,,Maintenance Service,50,Service
+6,Generator,765000,,Maintenance Service,50,Service
+6,Generator,768000,,Maintenance Service,50,Service
+6,Generator,769683,Cooling System,Replaced Cooling System,400,Failure
+6,Generator,771000,,Maintenance Service,50,Service
+6,Generator,774000,,Maintenance Service,50,Service
+6,Generator,775127,Alternator,Replaced Alternator,700,Failure
+6,Generator,777000,,Maintenance Service,50,Service
+6,Generator,777555,Wiring Harness,Replaced Wiring Harness,300,Failure
+6,Generator,780000,,Maintenance Service,50,Service
+6,Generator,783000,,Maintenance Service,50,Service
+6,Generator,786000,,Maintenance Service,50,Service
+6,Generator,786830,Cooling System,Replaced Cooling System,400,Failure
+6,Generator,789000,,Maintenance Service,50,Service
+6,Generator,791415,Alternator,Replaced Alternator,700,Failure
+6,Generator,792000,,Maintenance Service,50,Service
+6,Generator,795000,,Maintenance Service,50,Service
+6,Generator,797602,Wiring Harness,Replaced Wiring Harness,300,Failure
+6,Generator,798000,,Maintenance Service,50,Service
+6,Generator,801000,,Maintenance Service,50,Service
+6,Generator,802234,Cooling System,Replaced Cooling System,400,Failure
+6,Generator,804000,,Maintenance Service,50,Service
+6,Generator,806132,Alternator,Replaced Alternator,700,Failure
+6,Generator,807000,,Maintenance Service,50,Service
+6,Generator,810000,,Maintenance Service,50,Service
+6,Generator,813000,,Maintenance Service,50,Service
+6,Generator,816000,,Maintenance Service,50,Service
+6,Generator,816707,Wiring Harness,Replaced Wiring Harness,300,Failure
+6,Generator,819000,,Maintenance Service,50,Service
+6,Generator,819396,Cooling System,Replaced Cooling System,400,Failure
+6,Generator,819896,Wiring Harness,Preemptive Replacement of Wiring Harness,300,Preemptive Replacement
+6,Generator,821824,Alternator,Replaced Alternator,700,Failure
+6,Generator,822000,,Maintenance Service,50,Service
+6,Generator,825000,,Maintenance Service,50,Service
+6,Generator,828000,,Maintenance Service,50,Service
+6,Generator,831000,,Maintenance Service,50,Service
+6,Generator,833550,Wiring Harness,Replaced Wiring Harness,300,Failure
+6,Generator,834000,,Maintenance Service,50,Service
+6,Generator,836417,Cooling System,Replaced Cooling System,400,Failure
+6,Generator,837000,,Maintenance Service,50,Service
+6,Generator,837346,Alternator,Replaced Alternator,700,Failure
+6,Generator,840000,,Maintenance Service,50,Service
+6,Generator,843000,,Maintenance Service,50,Service
+6,Generator,846000,,Maintenance Service,50,Service
+6,Generator,849000,,Maintenance Service,50,Service
+6,Generator,852000,,Maintenance Service,50,Service
+6,Generator,852275,Wiring Harness,Replaced Wiring Harness,300,Failure
+6,Generator,852358,Cooling System,Replaced Cooling System,400,Failure
+6,Generator,852395,Alternator,Replaced Alternator,700,Failure
+6,Generator,855000,,Maintenance Service,50,Service
+6,Generator,858000,,Maintenance Service,50,Service
+6,Generator,861000,,Maintenance Service,50,Service
+6,Generator,864000,,Maintenance Service,50,Service
+6,Generator,866498,Alternator,Replaced Alternator,700,Failure
+6,Generator,866998,Cooling System,Preemptive Replacement of Cooling System,400,Preemptive Replacement
+6,Generator,867000,,Maintenance Service,50,Service
+6,Generator,870000,,Maintenance Service,50,Service
+6,Generator,872485,Wiring Harness,Replaced Wiring Harness,300,Failure
+6,Generator,873000,,Maintenance Service,50,Service
+6,Generator,876000,,Maintenance Service,50,Service
+6,Generator,877241,Cooling System,Replaced Cooling System,400,Failure
+6,Generator,879000,,Maintenance Service,50,Service
+6,Generator,881850,Alternator,Replaced Alternator,700,Failure
+6,Generator,882000,,Maintenance Service,50,Service
+6,Generator,885000,,Maintenance Service,50,Service
+6,Generator,888000,,Maintenance Service,50,Service
+6,Generator,891000,,Maintenance Service,50,Service
+6,Generator,892124,Cooling System,Replaced Cooling System,400,Failure
+6,Generator,892165,Wiring Harness,Replaced Wiring Harness,300,Failure
+6,Generator,894000,,Maintenance Service,50,Service
+6,Generator,895591,Alternator,Replaced Alternator,700,Failure
+6,Generator,896091,Cooling System,Preemptive Replacement of Cooling System,400,Preemptive Replacement
+6,Generator,897000,,Maintenance Service,50,Service
+6,Generator,900000,,Maintenance Service,50,Service
+6,Generator,903000,,Maintenance Service,50,Service
+6,Generator,906000,,Maintenance Service,50,Service
+6,Generator,906071,Cooling System,Replaced Cooling System,400,Failure
+6,Generator,909000,,Maintenance Service,50,Service
+6,Generator,910353,Alternator,Replaced Alternator,700,Failure
+6,Generator,910402,Wiring Harness,Replaced Wiring Harness,300,Failure
+6,Generator,912000,,Maintenance Service,50,Service
+6,Generator,915000,,Maintenance Service,50,Service
+6,Generator,918000,,Maintenance Service,50,Service
+6,Generator,921000,,Maintenance Service,50,Service
+6,Generator,921791,Cooling System,Replaced Cooling System,400,Failure
+6,Generator,922291,Alternator,Preemptive Replacement of Alternator,700,Preemptive Replacement
+6,Generator,924000,,Maintenance Service,50,Service
+6,Generator,927000,,Maintenance Service,50,Service
+6,Generator,928465,Wiring Harness,Replaced Wiring Harness,300,Failure
+6,Generator,930000,,Maintenance Service,50,Service
+6,Generator,933000,,Maintenance Service,50,Service
+6,Generator,936000,,Maintenance Service,50,Service
+6,Generator,936311,Alternator,Replaced Alternator,700,Failure
+6,Generator,936811,Wiring Harness,Preemptive Replacement of Wiring Harness,300,Preemptive Replacement
+6,Generator,938280,Cooling System,Replaced Cooling System,400,Failure
+6,Generator,939000,,Maintenance Service,50,Service
+6,Generator,942000,,Maintenance Service,50,Service
+6,Generator,945000,,Maintenance Service,50,Service
+6,Generator,948000,,Maintenance Service,50,Service
+6,Generator,951000,,Maintenance Service,50,Service
+6,Generator,951826,Wiring Harness,Replaced Wiring Harness,300,Failure
+7,Conveyor Belt,537000,,Maintenance Service,50,Service
+7,Conveyor Belt,539577,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,540000,,Maintenance Service,50,Service
+7,Conveyor Belt,542029,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,543000,,Maintenance Service,50,Service
+7,Conveyor Belt,545051,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,545551,Belt,Preemptive Replacement of Belt,250,Preemptive Replacement
+7,Conveyor Belt,546000,,Maintenance Service,50,Service
+7,Conveyor Belt,549000,,Maintenance Service,50,Service
+7,Conveyor Belt,550560,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,551678,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,551875,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,552000,,Maintenance Service,50,Service
+7,Conveyor Belt,555000,,Maintenance Service,50,Service
+7,Conveyor Belt,556395,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,558000,,Maintenance Service,50,Service
+7,Conveyor Belt,560434,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,561000,,Maintenance Service,50,Service
+7,Conveyor Belt,561435,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,562528,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,564000,,Maintenance Service,50,Service
+7,Conveyor Belt,567000,,Maintenance Service,50,Service
+7,Conveyor Belt,568090,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,569355,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,570000,,Maintenance Service,50,Service
+7,Conveyor Belt,571030,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,573000,,Maintenance Service,50,Service
+7,Conveyor Belt,573916,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,576000,,Maintenance Service,50,Service
+7,Conveyor Belt,579000,,Maintenance Service,50,Service
+7,Conveyor Belt,579302,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,579675,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,580866,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,582000,,Maintenance Service,50,Service
+7,Conveyor Belt,585000,,Maintenance Service,50,Service
+7,Conveyor Belt,585176,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,588000,,Maintenance Service,50,Service
+7,Conveyor Belt,589729,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,590820,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,591000,,Maintenance Service,50,Service
+7,Conveyor Belt,591320,Sensors,Preemptive Replacement of Sensors,180,Preemptive Replacement
+7,Conveyor Belt,594000,,Maintenance Service,50,Service
+7,Conveyor Belt,595911,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,597000,,Maintenance Service,50,Service
+7,Conveyor Belt,598517,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,600000,,Maintenance Service,50,Service
+7,Conveyor Belt,601163,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,601663,Motor,Preemptive Replacement of Motor,600,Preemptive Replacement
+7,Conveyor Belt,601725,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,603000,,Maintenance Service,50,Service
+7,Conveyor Belt,606000,,Maintenance Service,50,Service
+7,Conveyor Belt,607860,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,607965,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,609000,,Maintenance Service,50,Service
+7,Conveyor Belt,610095,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,612000,,Maintenance Service,50,Service
+7,Conveyor Belt,613448,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,615000,,Maintenance Service,50,Service
+7,Conveyor Belt,616268,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,618000,,Maintenance Service,50,Service
+7,Conveyor Belt,618864,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,621000,,Maintenance Service,50,Service
+7,Conveyor Belt,621019,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,624000,,Maintenance Service,50,Service
+7,Conveyor Belt,624086,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,624781,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,627000,,Maintenance Service,50,Service
+7,Conveyor Belt,629587,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,630000,,Maintenance Service,50,Service
+7,Conveyor Belt,632244,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,633000,,Maintenance Service,50,Service
+7,Conveyor Belt,633927,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,634517,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,636000,,Maintenance Service,50,Service
+7,Conveyor Belt,639000,,Maintenance Service,50,Service
+7,Conveyor Belt,640108,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,640608,Sensors,Preemptive Replacement of Sensors,180,Preemptive Replacement
+7,Conveyor Belt,642000,,Maintenance Service,50,Service
+7,Conveyor Belt,642530,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,643199,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,645000,,Maintenance Service,50,Service
+7,Conveyor Belt,645118,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,645618,Motor,Preemptive Replacement of Motor,600,Preemptive Replacement
+7,Conveyor Belt,648000,,Maintenance Service,50,Service
+7,Conveyor Belt,650545,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,651000,,Maintenance Service,50,Service
+7,Conveyor Belt,651489,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,654000,,Maintenance Service,50,Service
+7,Conveyor Belt,655324,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,655840,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,657000,,Maintenance Service,50,Service
+7,Conveyor Belt,660000,,Maintenance Service,50,Service
+7,Conveyor Belt,661318,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,661489,Belt,Replaced Belt,250,Failure
+7,Conveyor Belt,663000,,Maintenance Service,50,Service
+7,Conveyor Belt,664893,Motor,Replaced Motor,600,Failure
+7,Conveyor Belt,666000,,Maintenance Service,50,Service
+7,Conveyor Belt,667211,Sensors,Replaced Sensors,180,Failure
+7,Conveyor Belt,669000,,Maintenance Service,50,Service
+7,Conveyor Belt,670850,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,537468,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,538196,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,540000,,Maintenance Service,50,Service
+8,Conveyor Belt,542796,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,543000,,Maintenance Service,50,Service
+8,Conveyor Belt,544226,Motor,Replaced Motor,600,Failure
+8,Conveyor Belt,546000,,Maintenance Service,50,Service
+8,Conveyor Belt,547322,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,548310,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,549000,,Maintenance Service,50,Service
+8,Conveyor Belt,552000,,Maintenance Service,50,Service
+8,Conveyor Belt,553867,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,554936,Motor,Replaced Motor,600,Failure
+8,Conveyor Belt,555000,,Maintenance Service,50,Service
+8,Conveyor Belt,557241,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,558000,,Maintenance Service,50,Service
+8,Conveyor Belt,559606,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,561000,,Maintenance Service,50,Service
+8,Conveyor Belt,564000,,Maintenance Service,50,Service
+8,Conveyor Belt,565429,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,565878,Motor,Replaced Motor,600,Failure
+8,Conveyor Belt,567000,,Maintenance Service,50,Service
+8,Conveyor Belt,567091,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,570000,,Maintenance Service,50,Service
+8,Conveyor Belt,571331,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,573000,,Maintenance Service,50,Service
+8,Conveyor Belt,576000,,Maintenance Service,50,Service
+8,Conveyor Belt,576366,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,576551,Motor,Replaced Motor,600,Failure
+8,Conveyor Belt,577306,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,577806,Sensors,Preemptive Replacement of Sensors,180,Preemptive Replacement
+8,Conveyor Belt,579000,,Maintenance Service,50,Service
+8,Conveyor Belt,582000,,Maintenance Service,50,Service
+8,Conveyor Belt,582439,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,582939,Motor,Preemptive Replacement of Motor,600,Preemptive Replacement
+8,Conveyor Belt,585000,,Maintenance Service,50,Service
+8,Conveyor Belt,585497,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,585997,Sensors,Preemptive Replacement of Sensors,180,Preemptive Replacement
+8,Conveyor Belt,588000,,Maintenance Service,50,Service
+8,Conveyor Belt,590730,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,591000,,Maintenance Service,50,Service
+8,Conveyor Belt,591770,Motor,Replaced Motor,600,Failure
+8,Conveyor Belt,594000,,Maintenance Service,50,Service
+8,Conveyor Belt,594844,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,596254,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,597000,,Maintenance Service,50,Service
+8,Conveyor Belt,600000,,Maintenance Service,50,Service
+8,Conveyor Belt,601022,Motor,Replaced Motor,600,Failure
+8,Conveyor Belt,601940,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,603000,,Maintenance Service,50,Service
+8,Conveyor Belt,603581,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,606000,,Maintenance Service,50,Service
+8,Conveyor Belt,607757,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,609000,,Maintenance Service,50,Service
+8,Conveyor Belt,610790,Motor,Replaced Motor,600,Failure
+8,Conveyor Belt,612000,,Maintenance Service,50,Service
+8,Conveyor Belt,612946,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,613181,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,615000,,Maintenance Service,50,Service
+8,Conveyor Belt,618000,,Maintenance Service,50,Service
+8,Conveyor Belt,618544,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,621000,,Maintenance Service,50,Service
+8,Conveyor Belt,621023,Motor,Replaced Motor,600,Failure
+8,Conveyor Belt,622816,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,624000,,Maintenance Service,50,Service
+8,Conveyor Belt,624307,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,627000,,Maintenance Service,50,Service
+8,Conveyor Belt,629562,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,630000,,Maintenance Service,50,Service
+8,Conveyor Belt,631880,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,632306,Motor,Replaced Motor,600,Failure
+8,Conveyor Belt,633000,,Maintenance Service,50,Service
+8,Conveyor Belt,635246,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,636000,,Maintenance Service,50,Service
+8,Conveyor Belt,639000,,Maintenance Service,50,Service
+8,Conveyor Belt,640984,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,641273,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,641970,Motor,Replaced Motor,600,Failure
+8,Conveyor Belt,642000,,Maintenance Service,50,Service
+8,Conveyor Belt,645000,,Maintenance Service,50,Service
+8,Conveyor Belt,646229,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,648000,,Maintenance Service,50,Service
+8,Conveyor Belt,651000,,Maintenance Service,50,Service
+8,Conveyor Belt,651229,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,651770,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,652690,Motor,Replaced Motor,600,Failure
+8,Conveyor Belt,654000,,Maintenance Service,50,Service
+8,Conveyor Belt,657000,,Maintenance Service,50,Service
+8,Conveyor Belt,657431,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,660000,,Maintenance Service,50,Service
+8,Conveyor Belt,661736,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,663000,,Maintenance Service,50,Service
+8,Conveyor Belt,663246,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,663966,Motor,Replaced Motor,600,Failure
+8,Conveyor Belt,666000,,Maintenance Service,50,Service
+8,Conveyor Belt,669000,,Maintenance Service,50,Service
+8,Conveyor Belt,669278,Sensors,Replaced Sensors,180,Failure
+8,Conveyor Belt,670617,Belt,Replaced Belt,250,Failure
+8,Conveyor Belt,672000,,Maintenance Service,50,Service
+8,Conveyor Belt,674990,Motor,Replaced Motor,600,Failure
