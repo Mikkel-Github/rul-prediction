@@ -143,7 +143,7 @@ def generate_machine_data(machine_id, machine_type):
         )
         adjusted_lifespan = sample_lifespan(
             components_base[failed_component]["lifespan"]
-        ) * (1 + service_boost / 2)
+        ) * (1 + service_boost)
 
         # insert the next failure event
         records.append(
