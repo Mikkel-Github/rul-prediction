@@ -286,8 +286,8 @@ page 50110 "Predictive Maintenance Hub"
                                 Instead manually assigning each element in the array works.
                                 This has the downside of calling the "ParseLine" for every field.
                             */
-                            System.CopyArray(Fields, Parser.ParseLine(Line, ','), 0);
-                            /*
+                            // System.CopyArray(Fields, Parser.ParseLine(Line, ','), 0);
+
                             Fields[1] := Parser.ParseLine(Line, ',') [1];
                             Fields[2] := Parser.ParseLine(Line, ',') [2];
                             Fields[3] := Parser.ParseLine(Line, ',') [3];
@@ -298,7 +298,6 @@ page 50110 "Predictive Maintenance Hub"
                             Fields[8] := Parser.ParseLine(Line, ',') [8];
                             Fields[9] := Parser.ParseLine(Line, ',') [9];
                             Fields[10] := Parser.ParseLine(Line, ',') [10];
-                            */
 
                             machineID := Fields[1];
                             machineType := Fields[2];
