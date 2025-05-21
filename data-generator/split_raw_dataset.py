@@ -7,7 +7,10 @@ import pandas as pd
 # so instead of jsut splitting the dataset 80/20 and losing data for some of the machines,
 # as the machines with the components that doesn't last as long will not be in the last 20% of the dataset.
 # This script splits 80/20 per machine so both datasets include all machines.
-df = pd.read_csv("synthetic_failure_and_service_data.csv")
+df = pd.read_csv(
+    "synthetic_failure_and_service_data.csv"
+)  # use this when splitting the synthetic dataset for manually testing on BC
+# df = pd.read_csv("./dataset_settings_4.csv") # use this for the model evaluation script
 df.sort_values(by=["machine_id", "active_time"], inplace=True)
 
 train_rows = []
@@ -27,6 +30,8 @@ test_df = pd.concat(test_rows).reset_index(drop=True)
 
 train_df.to_csv("BC_Train.csv", index=False)
 test_df.to_csv("BC_Manual_Test.csv", index=False)
+# train_df.to_csv("dataset_4_TRAINING.csv", index=False)
+# test_df.to_csv("dataset_4_TEST.csv", index=False)
 
 print("Dataset split complete:")
 print(f" - BC_Train.csv: {len(train_df)} rows")

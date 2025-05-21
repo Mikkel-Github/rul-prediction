@@ -12,7 +12,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from xgboost import XGBRegressor
 
-df = pd.read_csv("../data-generator/dataset_train.csv")
+df = pd.read_csv("../data-generator/for_tests_TRAINING.csv")
 df = df.dropna(subset=["RUL"])
 X = df.drop(
     columns=["RUL", "machine_id", "prev_failures", "is_failure", "lifecycle_id"]
@@ -20,13 +20,10 @@ X = df.drop(
 y = df["RUL"]
 
 
-categorical_features = ["component", "machine_type"]
+categorical_features = ["component", "machine_type", "event_type_encoded"]
 numerical_features = [
     "component_age",
     "num_services_since_install",
-    "component_age_x_services",
-    "time_since_last_service",
-    "event_type_encoded",
 ]
 
 preprocessor = ColumnTransformer(
@@ -57,14 +54,25 @@ def random_forest(trial):
 
 def xgboost(trial):
     params = {
+        "learning_rate": trial.suggest_float("learning_rate", 0.01, 1.0),
+        "gamma": trial.suggest_float("gamma", 0, 3),
+        "max_depth": trial.suggest_int("max_depth", 1, 12),
+        "min_child_weight": trial.suggest_float("min_child_weight", 1, 3),
+        # "max_delta_step": trial.suggest_float("max_delta_step", 0, 6),
+        "subsample": trial.suggest_float("subsample", 0.1, 1.0),
+        "colsample_bytree": trial.suggest_float("colsample_bytree", 0, 1),
+        "colsample_bylevel": trial.suggest_float("colsample_bylevel", 0, 1),
+        "colsample_bynode": trial.suggest_float("colsample_bynode", 0, 1),
+        "lambda": trial.suggest_float("lambda", 0, 6),
+        "alpha": trial.suggest_float("alpha", 0, 6),
+        "max_leaves": trial.suggest_int("max_leaves", 0, 16),
+        "max_bin": trial.suggest_int("max_bin", 128, 512),
         "n_estimators": trial.suggest_int("n_estimators", 50, 300),
-        "max_depth": trial.suggest_int("max_depth", 3, 12),
-        "learning_rate": trial.suggest_float("learning_rate", 0.01, 0.3),
-        "subsample": trial.suggest_float("subsample", 0.6, 1.0),
-        "colsample_bytree": trial.suggest_float("colsample_bytree", 0.6, 1.0),
+        "reg_alpha": trial.suggest_float("reg_alpha", 0, 3),
+        "reg_lambda": trial.suggest_float("reg_lambda", 0, 3),
         "random_state": 42,
     }
-    model = XGBRegressor(**params)
+    model = XGBRegressor(objective="reg:squarederror", tree_method="hist", **params)
 
     pipeline = Pipeline([("preprocessor", preprocessor), ("regressor", model)])
 
@@ -134,7 +142,7 @@ def machine_learning(trial):
 
 study = optuna.create_study(direction="minimize")
 # study.optimize(random_forest, n_trials=50)
-study.optimize(xgboost, n_trials=50)
+study.optimize(xgboost, n_trials=100)
 # study.optimize(lightgbm, n_trials=50)
 # study.optimize(machine_learning, n_trials=50)
 

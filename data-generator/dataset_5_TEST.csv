@@ -1,0 +1,824 @@
+machine_id,machine_type,component,active_time,component_age,prev_failures,num_services_since_install,time_since_last_service,RUL,event_type_encoded,lifecycle_id,is_failure
+1,Excavator,Engine,326964,20371,18,6,2964,0.0,2,18,1
+1,Excavator,Engine,327000,36,19,0,36,19881.0,1,19,0
+1,Excavator,Brake System,327000,1865,41,0,1865,6611.0,1,41,0
+1,Excavator,Hydraulic Pump,327000,948,32,0,948,9456.0,1,32,0
+1,Excavator,Hydraulic Pump,330000,3948,32,1,3000,6456.0,1,32,0
+1,Excavator,Engine,330000,3036,19,1,3000,16881.0,1,19,0
+1,Excavator,Brake System,330000,4865,41,1,3000,3611.0,1,41,0
+1,Excavator,Brake System,333000,7865,41,2,3000,611.0,1,41,0
+1,Excavator,Hydraulic Pump,333000,6948,32,2,3000,3456.0,1,32,0
+1,Excavator,Engine,333000,6036,19,2,3000,13881.0,1,19,0
+1,Excavator,Brake System,333611,8476,41,3,611,0.0,2,41,1
+1,Excavator,Brake System,336000,2389,42,0,2389,6464.0,1,42,0
+1,Excavator,Hydraulic Pump,336000,9948,32,3,3000,456.0,1,32,0
+1,Excavator,Engine,336000,9036,19,3,3000,10881.0,1,19,0
+1,Excavator,Hydraulic Pump,336456,10404,32,4,456,0.0,2,32,1
+1,Excavator,Brake System,339000,5389,42,1,3000,3464.0,1,42,0
+1,Excavator,Hydraulic Pump,339000,2544,33,0,2544,7931.0,1,33,0
+1,Excavator,Engine,339000,12036,19,4,3000,7881.0,1,19,0
+1,Excavator,Engine,342000,15036,19,5,3000,4881.0,1,19,0
+1,Excavator,Brake System,342000,8389,42,2,3000,464.0,1,42,0
+1,Excavator,Hydraulic Pump,342000,5544,33,1,3000,4931.0,1,33,0
+1,Excavator,Brake System,342464,8853,42,3,464,0.0,2,42,1
+1,Excavator,Brake System,345000,2536,43,0,2536,6232.0,1,43,0
+1,Excavator,Hydraulic Pump,345000,8544,33,2,3000,1931.0,1,33,0
+1,Excavator,Engine,345000,18036,19,6,3000,1881.0,1,19,0
+1,Excavator,Engine,346881,19917,19,7,1881,0.0,2,19,1
+1,Excavator,Hydraulic Pump,346931,10475,33,3,1931,0.0,2,33,1
+1,Excavator,Brake System,348000,5536,43,1,3000,3232.0,1,43,0
+1,Excavator,Hydraulic Pump,348000,1069,34,0,1069,9735.0,1,34,0
+1,Excavator,Engine,348000,1119,20,0,1119,19585.0,1,20,0
+1,Excavator,Brake System,351000,8536,43,2,3000,232.0,1,43,0
+1,Excavator,Hydraulic Pump,351000,4069,34,1,3000,6735.0,1,34,0
+1,Excavator,Engine,351000,4119,20,1,3000,16585.0,1,20,0
+1,Excavator,Brake System,351232,8768,43,3,232,0.0,2,43,1
+1,Excavator,Hydraulic Pump,354000,7069,34,2,3000,3735.0,1,34,0
+1,Excavator,Engine,354000,7119,20,2,3000,13585.0,1,20,0
+1,Excavator,Brake System,354000,2768,44,0,2768,5882.0,1,44,0
+1,Excavator,Hydraulic Pump,357000,10069,34,3,3000,735.0,1,34,0
+1,Excavator,Engine,357000,10119,20,3,3000,10585.0,1,20,0
+1,Excavator,Brake System,357000,5768,44,1,3000,2882.0,1,44,0
+1,Excavator,Hydraulic Pump,357735,10804,34,4,735,0.0,2,34,1
+1,Excavator,Brake System,359882,8650,44,2,2882,0.0,2,44,1
+1,Excavator,Brake System,360000,118,45,0,118,8201.0,1,45,0
+1,Excavator,Hydraulic Pump,360000,2265,35,0,2265,8118.0,1,35,0
+1,Excavator,Engine,360000,13119,20,4,3000,7585.0,1,20,0
+1,Excavator,Brake System,363000,3118,45,1,3000,5201.0,1,45,0
+1,Excavator,Hydraulic Pump,363000,5265,35,1,3000,5118.0,1,35,0
+1,Excavator,Engine,363000,16119,20,5,3000,4585.0,1,20,0
+1,Excavator,Brake System,366000,6118,45,2,3000,2201.0,1,45,0
+1,Excavator,Hydraulic Pump,366000,8265,35,2,3000,2118.0,1,35,0
+1,Excavator,Engine,366000,19119,20,6,3000,1585.0,1,20,0
+1,Excavator,Engine,367585,20704,20,7,1585,0.0,2,20,1
+1,Excavator,Hydraulic Pump,368118,10383,35,3,2118,0.0,2,35,1
+1,Excavator,Brake System,368201,8319,45,3,2201,0.0,2,45,1
+1,Excavator,Engine,369000,1415,21,0,1415,18463.0,1,21,0
+1,Excavator,Hydraulic Pump,369000,882,36,0,882,8604.0,1,36,0
+1,Excavator,Brake System,369000,799,46,0,799,8104.0,1,46,0
+1,Excavator,Brake System,372000,3799,46,1,3000,5104.0,1,46,0
+1,Excavator,Hydraulic Pump,372000,3882,36,1,3000,5604.0,1,36,0
+1,Excavator,Engine,372000,4415,21,1,3000,15463.0,1,21,0
+1,Excavator,Brake System,375000,6799,46,2,3000,2104.0,1,46,0
+1,Excavator,Hydraulic Pump,375000,6882,36,2,3000,2604.0,1,36,0
+1,Excavator,Engine,375000,7415,21,2,3000,12463.0,1,21,0
+1,Excavator,Brake System,377104,8903,46,3,2104,0.0,2,46,1
+1,Excavator,Hydraulic Pump,377604,9486,36,3,2604,0.0,2,36,1
+1,Excavator,Brake System,378000,896,47,0,896,7843.0,1,47,0
+1,Excavator,Hydraulic Pump,378000,396,37,0,396,10575.0,1,37,0
+1,Excavator,Engine,378000,10415,21,3,3000,9463.0,1,21,0
+1,Excavator,Brake System,381000,3896,47,1,3000,4843.0,1,47,0
+1,Excavator,Hydraulic Pump,381000,3396,37,1,3000,7575.0,1,37,0
+1,Excavator,Engine,381000,13415,21,4,3000,6463.0,1,21,0
+1,Excavator,Engine,384000,16415,21,5,3000,3463.0,1,21,0
+1,Excavator,Brake System,384000,6896,47,2,3000,1843.0,1,47,0
+1,Excavator,Hydraulic Pump,384000,6396,37,2,3000,4575.0,1,37,0
+1,Excavator,Brake System,385843,8739,47,3,1843,0.0,2,47,1
+1,Excavator,Brake System,387000,1157,48,0,1157,963.0,1,48,0
+1,Excavator,Hydraulic Pump,387000,9396,37,3,3000,1575.0,1,37,0
+1,Excavator,Engine,387000,19415,21,6,3000,463.0,1,21,0
+1,Excavator,Engine,387463,19878,21,7,463,0.0,2,21,1
+1,Excavator,Brake System,387963,2120,48,1,963,0.0,2,48,1
+1,Excavator,Hydraulic Pump,388575,10971,37,4,1575,0.0,2,37,1
+1,Excavator,Brake System,390000,2037,49,0,2037,6378.0,1,49,0
+1,Excavator,Hydraulic Pump,390000,1425,38,0,1425,9037.0,1,38,0
+1,Excavator,Engine,390000,2537,22,0,2537,16806.0,1,22,0
+1,Excavator,Hydraulic Pump,393000,4425,38,1,3000,6037.0,1,38,0
+1,Excavator,Brake System,393000,5037,49,1,3000,3378.0,1,49,0
+1,Excavator,Engine,393000,5537,22,1,3000,13806.0,1,22,0
+1,Excavator,Engine,396000,8537,22,2,3000,10806.0,1,22,0
+1,Excavator,Brake System,396000,8037,49,2,3000,378.0,1,49,0
+1,Excavator,Hydraulic Pump,396000,7425,38,2,3000,3037.0,1,38,0
+1,Excavator,Brake System,396378,8415,49,3,378,0.0,2,49,1
+1,Excavator,Brake System,399000,2622,50,0,2622,5799.0,1,50,0
+1,Excavator,Hydraulic Pump,399000,10425,38,3,3000,37.0,1,38,0
+1,Excavator,Engine,399000,11537,22,3,3000,7806.0,1,22,0
+1,Excavator,Hydraulic Pump,399037,10462,38,4,37,0.0,2,38,1
+1,Excavator,Engine,402000,14537,22,4,3000,4806.0,1,22,0
+1,Excavator,Brake System,402000,5622,50,1,3000,2799.0,1,50,0
+1,Excavator,Hydraulic Pump,402000,2963,39,0,2963,7761.0,1,39,0
+1,Excavator,Brake System,404799,8421,50,2,2799,0.0,2,50,1
+1,Excavator,Engine,405000,17537,22,5,3000,1806.0,1,22,0
+1,Excavator,Hydraulic Pump,405000,5963,39,1,3000,4761.0,1,39,0
+1,Excavator,Engine,406806,19343,22,6,1806,0.0,2,22,1
+1,Excavator,Hydraulic Pump,408000,8963,39,2,3000,1761.0,1,39,0
+1,Excavator,Hydraulic Pump,409761,10724,39,3,1761,0.0,2,39,1
+2,Excavator,Hydraulic Pump,327000,230,32,0,230,9192.0,1,32,0
+2,Excavator,Engine,327000,3873,19,1,3000,14996.0,1,19,0
+2,Excavator,Brake System,327045,8749,38,3,45,0.0,2,38,1
+2,Excavator,Hydraulic Pump,330000,3230,32,1,3000,6192.0,1,32,0
+2,Excavator,Engine,330000,6873,19,2,3000,11996.0,1,19,0
+2,Excavator,Brake System,330000,2955,39,0,2955,5692.0,1,39,0
+2,Excavator,Brake System,333000,5955,39,1,3000,2692.0,1,39,0
+2,Excavator,Hydraulic Pump,333000,6230,32,2,3000,3192.0,1,32,0
+2,Excavator,Engine,333000,9873,19,3,3000,8996.0,1,19,0
+2,Excavator,Brake System,335692,8647,39,2,2692,0.0,2,39,1
+2,Excavator,Brake System,336000,308,40,0,308,8104.0,1,40,0
+2,Excavator,Hydraulic Pump,336000,9230,32,3,3000,192.0,1,32,0
+2,Excavator,Engine,336000,12873,19,4,3000,5996.0,1,19,0
+2,Excavator,Hydraulic Pump,336192,9422,32,4,192,0.0,2,32,1
+2,Excavator,Brake System,339000,3308,40,1,3000,5104.0,1,40,0
+2,Excavator,Hydraulic Pump,339000,2808,33,0,2808,7273.0,1,33,0
+2,Excavator,Engine,339000,15873,19,5,3000,2996.0,1,19,0
+2,Excavator,Engine,341996,18869,19,6,2996,0.0,2,19,1
+2,Excavator,Engine,342000,4,20,0,4,19207.0,1,20,0
+2,Excavator,Brake System,342000,6308,40,2,3000,2104.0,1,40,0
+2,Excavator,Hydraulic Pump,342000,5808,33,1,3000,4273.0,1,33,0
+2,Excavator,Brake System,344104,8412,40,3,2104,0.0,2,40,1
+2,Excavator,Brake System,345000,896,41,0,896,7817.0,1,41,0
+2,Excavator,Hydraulic Pump,345000,8808,33,2,3000,1273.0,1,33,0
+2,Excavator,Engine,345000,3004,20,1,3000,16207.0,1,20,0
+2,Excavator,Hydraulic Pump,346273,10081,33,3,1273,0.0,2,33,1
+2,Excavator,Brake System,348000,3896,41,1,3000,4817.0,1,41,0
+2,Excavator,Hydraulic Pump,348000,1727,34,0,1727,8522.0,1,34,0
+2,Excavator,Engine,348000,6004,20,2,3000,13207.0,1,20,0
+2,Excavator,Brake System,351000,6896,41,2,3000,1817.0,1,41,0
+2,Excavator,Hydraulic Pump,351000,4727,34,1,3000,5522.0,1,34,0
+2,Excavator,Engine,351000,9004,20,3,3000,10207.0,1,20,0
+2,Excavator,Brake System,352817,8713,41,3,1817,0.0,2,41,1
+2,Excavator,Brake System,354000,1183,42,0,1183,7411.0,1,42,0
+2,Excavator,Hydraulic Pump,354000,7727,34,2,3000,2522.0,1,34,0
+2,Excavator,Engine,354000,12004,20,4,3000,7207.0,1,20,0
+2,Excavator,Hydraulic Pump,356522,10249,34,3,2522,0.0,2,34,1
+2,Excavator,Engine,357000,15004,20,5,3000,4207.0,1,20,0
+2,Excavator,Brake System,357000,4183,42,1,3000,4411.0,1,42,0
+2,Excavator,Hydraulic Pump,357000,478,35,0,478,10330.0,1,35,0
+2,Excavator,Brake System,360000,7183,42,2,3000,1411.0,1,42,0
+2,Excavator,Hydraulic Pump,360000,3478,35,1,3000,7330.0,1,35,0
+2,Excavator,Engine,360000,18004,20,6,3000,1207.0,1,20,0
+2,Excavator,Engine,361207,19211,20,7,1207,0.0,2,20,1
+2,Excavator,Brake System,361411,8594,42,3,1411,0.0,2,42,1
+2,Excavator,Brake System,363000,1589,43,0,1589,7282.0,1,43,0
+2,Excavator,Hydraulic Pump,363000,6478,35,2,3000,4330.0,1,35,0
+2,Excavator,Engine,363000,1793,21,0,1793,16908.0,1,21,0
+2,Excavator,Brake System,366000,4589,43,1,3000,4282.0,1,43,0
+2,Excavator,Hydraulic Pump,366000,9478,35,3,3000,1330.0,1,35,0
+2,Excavator,Engine,366000,4793,21,1,3000,13908.0,1,21,0
+2,Excavator,Hydraulic Pump,367330,10808,35,4,1330,0.0,2,35,1
+2,Excavator,Engine,369000,7793,21,2,3000,10908.0,1,21,0
+2,Excavator,Hydraulic Pump,369000,1670,36,0,1670,8878.0,1,36,0
+2,Excavator,Brake System,369000,7589,43,2,3000,1282.0,1,43,0
+2,Excavator,Brake System,370282,8871,43,3,1282,0.0,2,43,1
+2,Excavator,Brake System,372000,1718,44,0,1718,6318.0,1,44,0
+2,Excavator,Hydraulic Pump,372000,4670,36,1,3000,5878.0,1,36,0
+2,Excavator,Engine,372000,10793,21,3,3000,7908.0,1,21,0
+2,Excavator,Brake System,375000,4718,44,1,3000,3318.0,1,44,0
+2,Excavator,Hydraulic Pump,375000,7670,36,2,3000,2878.0,1,36,0
+2,Excavator,Engine,375000,13793,21,4,3000,4908.0,1,21,0
+2,Excavator,Hydraulic Pump,377878,10548,36,3,2878,0.0,2,36,1
+2,Excavator,Brake System,378000,7718,44,2,3000,318.0,1,44,0
+2,Excavator,Hydraulic Pump,378000,122,37,0,122,9806.0,1,37,0
+2,Excavator,Engine,378000,16793,21,5,3000,1908.0,1,21,0
+2,Excavator,Brake System,378318,8036,44,3,318,0.0,2,44,1
+2,Excavator,Engine,379908,18701,21,6,1908,0.0,2,21,1
+2,Excavator,Engine,381000,1092,22,0,1092,17678.0,1,22,0
+2,Excavator,Brake System,381000,2682,45,0,2682,5967.0,1,45,0
+2,Excavator,Hydraulic Pump,381000,3122,37,1,3000,6806.0,1,37,0
+2,Excavator,Brake System,384000,5682,45,1,3000,2967.0,1,45,0
+2,Excavator,Hydraulic Pump,384000,6122,37,2,3000,3806.0,1,37,0
+2,Excavator,Engine,384000,4092,22,1,3000,14678.0,1,22,0
+2,Excavator,Brake System,386967,8649,45,2,2967,0.0,2,45,1
+2,Excavator,Brake System,387000,33,46,0,33,1306.0,1,46,0
+2,Excavator,Hydraulic Pump,387000,9122,37,3,3000,806.0,1,37,0
+2,Excavator,Engine,387000,7092,22,2,3000,11678.0,1,22,0
+2,Excavator,Hydraulic Pump,387806,9928,37,4,806,0.0,2,37,1
+2,Excavator,Brake System,388306,1339,46,1,1306,0.0,2,46,1
+2,Excavator,Brake System,390000,1694,47,0,1694,5771.0,1,47,0
+2,Excavator,Hydraulic Pump,390000,2194,38,0,2194,8321.0,1,38,0
+2,Excavator,Engine,390000,10092,22,3,3000,8678.0,1,22,0
+2,Excavator,Hydraulic Pump,393000,5194,38,1,3000,5321.0,1,38,0
+2,Excavator,Engine,393000,13092,22,4,3000,5678.0,1,22,0
+2,Excavator,Brake System,393000,4694,47,1,3000,2771.0,1,47,0
+2,Excavator,Brake System,395771,7465,47,2,2771,0.0,2,47,1
+2,Excavator,Brake System,396000,229,48,0,229,8092.0,1,48,0
+2,Excavator,Hydraulic Pump,396000,8194,38,2,3000,2321.0,1,38,0
+2,Excavator,Engine,396000,16092,22,5,3000,2678.0,1,22,0
+2,Excavator,Hydraulic Pump,398321,10515,38,3,2321,0.0,2,38,1
+2,Excavator,Engine,398678,18770,22,6,2678,0.0,2,22,1
+2,Excavator,Brake System,399000,3229,48,1,3000,5092.0,1,48,0
+2,Excavator,Hydraulic Pump,399000,679,39,0,679,9987.0,1,39,0
+2,Excavator,Brake System,402000,6229,48,2,3000,2092.0,1,48,0
+2,Excavator,Hydraulic Pump,402000,3679,39,1,3000,6987.0,1,39,0
+2,Excavator,Brake System,404092,8321,48,3,2092,0.0,2,48,1
+2,Excavator,Brake System,405000,908,49,0,908,7970.0,1,49,0
+2,Excavator,Hydraulic Pump,405000,6679,39,2,3000,3987.0,1,39,0
+2,Excavator,Hydraulic Pump,408000,9679,39,3,3000,987.0,1,39,0
+2,Excavator,Brake System,408000,3908,49,1,3000,4970.0,1,49,0
+2,Excavator,Hydraulic Pump,408987,10666,39,4,987,0.0,2,39,1
+2,Excavator,Brake System,411000,6908,49,2,3000,1970.0,1,49,0
+2,Excavator,Brake System,412970,8878,49,3,1970,0.0,2,49,1
+3,Forklift,Battery,329943,12791,26,4,2943,0.0,2,26,1
+3,Forklift,Brake System,330000,8802,38,2,3000,284.0,1,38,0
+3,Forklift,Battery,330000,57,27,0,57,12221.0,1,27,0
+3,Forklift,Wiring Harness,330000,1260,25,0,1260,13935.0,1,25,0
+3,Forklift,Brake System,330284,9086,38,3,284,0.0,2,38,1
+3,Forklift,Wiring Harness,333000,4260,25,1,3000,10935.0,1,25,0
+3,Forklift,Battery,333000,3057,27,1,3000,9221.0,1,27,0
+3,Forklift,Brake System,333000,2716,39,0,2716,6482.0,1,39,0
+3,Forklift,Brake System,336000,5716,39,1,3000,3482.0,1,39,0
+3,Forklift,Battery,336000,6057,27,2,3000,6221.0,1,27,0
+3,Forklift,Wiring Harness,336000,7260,25,2,3000,7935.0,1,25,0
+3,Forklift,Brake System,339000,8716,39,2,3000,482.0,1,39,0
+3,Forklift,Battery,339000,9057,27,3,3000,3221.0,1,27,0
+3,Forklift,Wiring Harness,339000,10260,25,3,3000,4935.0,1,25,0
+3,Forklift,Brake System,339482,9198,39,3,482,0.0,2,39,1
+3,Forklift,Brake System,342000,2518,40,0,2518,7267.0,1,40,0
+3,Forklift,Battery,342000,12057,27,4,3000,221.0,1,27,0
+3,Forklift,Wiring Harness,342000,13260,25,4,3000,1935.0,1,25,0
+3,Forklift,Battery,342221,12278,27,5,221,0.0,2,27,1
+3,Forklift,Wiring Harness,343935,15195,25,5,1935,0.0,2,25,1
+3,Forklift,Battery,345000,2779,28,0,2779,10389.0,1,28,0
+3,Forklift,Wiring Harness,345000,1065,26,0,1065,13344.0,1,26,0
+3,Forklift,Brake System,345000,5518,40,1,3000,4267.0,1,40,0
+3,Forklift,Brake System,348000,8518,40,2,3000,1267.0,1,40,0
+3,Forklift,Battery,348000,5779,28,1,3000,7389.0,1,28,0
+3,Forklift,Wiring Harness,348000,4065,26,1,3000,10344.0,1,26,0
+3,Forklift,Brake System,349267,9785,40,3,1267,0.0,2,40,1
+3,Forklift,Brake System,351000,1733,41,0,1733,7462.0,1,41,0
+3,Forklift,Battery,351000,8779,28,2,3000,4389.0,1,28,0
+3,Forklift,Wiring Harness,351000,7065,26,2,3000,7344.0,1,26,0
+3,Forklift,Brake System,354000,4733,41,1,3000,4462.0,1,41,0
+3,Forklift,Battery,354000,11779,28,3,3000,1389.0,1,28,0
+3,Forklift,Wiring Harness,354000,10065,26,3,3000,4344.0,1,26,0
+3,Forklift,Battery,355389,13168,28,4,1389,0.0,2,28,1
+3,Forklift,Wiring Harness,357000,13065,26,4,3000,1344.0,1,26,0
+3,Forklift,Brake System,357000,7733,41,2,3000,1462.0,1,41,0
+3,Forklift,Battery,357000,1611,29,0,1611,11350.0,1,29,0
+3,Forklift,Wiring Harness,358344,14409,26,5,1344,0.0,2,26,1
+3,Forklift,Brake System,358462,9195,41,3,1462,0.0,2,41,1
+3,Forklift,Brake System,360000,1538,42,0,1538,7396.0,1,42,0
+3,Forklift,Battery,360000,4611,29,1,3000,8350.0,1,29,0
+3,Forklift,Wiring Harness,360000,1656,27,0,1656,7896.0,1,27,0
+3,Forklift,Brake System,363000,4538,42,1,3000,4396.0,1,42,0
+3,Forklift,Battery,363000,7611,29,2,3000,5350.0,1,29,0
+3,Forklift,Wiring Harness,363000,4656,27,1,3000,4896.0,1,27,0
+3,Forklift,Brake System,366000,7538,42,2,3000,1396.0,1,42,0
+3,Forklift,Battery,366000,10611,29,3,3000,2350.0,1,29,0
+3,Forklift,Wiring Harness,366000,7656,27,2,3000,1896.0,1,27,0
+3,Forklift,Brake System,367396,8934,42,3,1396,0.0,2,42,1
+3,Forklift,Wiring Harness,367896,9552,27,3,1896,0.0,2,27,1
+3,Forklift,Battery,368350,12961,29,4,2350,0.0,2,29,1
+3,Forklift,Wiring Harness,368850,954,28,0,954,0.0,2,28,1
+3,Forklift,Battery,369000,650,30,0,650,12604.0,1,30,0
+3,Forklift,Wiring Harness,369000,150,29,0,150,13979.0,1,29,0
+3,Forklift,Brake System,369000,1604,43,0,1604,7508.0,1,43,0
+3,Forklift,Brake System,372000,4604,43,1,3000,4508.0,1,43,0
+3,Forklift,Battery,372000,3650,30,1,3000,9604.0,1,30,0
+3,Forklift,Wiring Harness,372000,3150,29,1,3000,10979.0,1,29,0
+3,Forklift,Brake System,375000,7604,43,2,3000,1508.0,1,43,0
+3,Forklift,Battery,375000,6650,30,2,3000,6604.0,1,30,0
+3,Forklift,Wiring Harness,375000,6150,29,2,3000,7979.0,1,29,0
+3,Forklift,Brake System,376508,9112,43,3,1508,0.0,2,43,1
+3,Forklift,Brake System,378000,1492,44,0,1492,7797.0,1,44,0
+3,Forklift,Battery,378000,9650,30,3,3000,3604.0,1,30,0
+3,Forklift,Wiring Harness,378000,9150,29,3,3000,4979.0,1,29,0
+3,Forklift,Brake System,381000,4492,44,1,3000,4797.0,1,44,0
+3,Forklift,Battery,381000,12650,30,4,3000,604.0,1,30,0
+3,Forklift,Wiring Harness,381000,12150,29,4,3000,1979.0,1,29,0
+3,Forklift,Battery,381604,13254,30,5,604,0.0,2,30,1
+3,Forklift,Wiring Harness,382979,14129,29,5,1979,0.0,2,29,1
+3,Forklift,Wiring Harness,384000,1021,30,0,1021,12604.0,1,30,0
+3,Forklift,Brake System,384000,7492,44,2,3000,1797.0,1,44,0
+3,Forklift,Battery,384000,2396,31,0,2396,10904.0,1,31,0
+3,Forklift,Brake System,385797,9289,44,3,1797,0.0,2,44,1
+3,Forklift,Brake System,387000,1203,45,0,1203,7827.0,1,45,0
+3,Forklift,Battery,387000,5396,31,1,3000,7904.0,1,31,0
+3,Forklift,Wiring Harness,387000,4021,30,1,3000,9604.0,1,30,0
+3,Forklift,Brake System,390000,4203,45,1,3000,4827.0,1,45,0
+3,Forklift,Battery,390000,8396,31,2,3000,4904.0,1,31,0
+3,Forklift,Wiring Harness,390000,7021,30,2,3000,6604.0,1,30,0
+3,Forklift,Brake System,393000,7203,45,2,3000,1827.0,1,45,0
+3,Forklift,Battery,393000,11396,31,3,3000,1904.0,1,31,0
+3,Forklift,Wiring Harness,393000,10021,30,3,3000,3604.0,1,30,0
+3,Forklift,Brake System,394827,9030,45,3,1827,0.0,2,45,1
+3,Forklift,Battery,394904,13300,31,4,1904,0.0,2,31,1
+3,Forklift,Wiring Harness,396000,13021,30,4,3000,604.0,1,30,0
+3,Forklift,Brake System,396000,1173,46,0,1173,8535.0,1,46,0
+3,Forklift,Battery,396000,1096,32,0,1096,11591.0,1,32,0
+3,Forklift,Wiring Harness,396604,13625,30,5,604,0.0,2,30,1
+3,Forklift,Brake System,399000,4173,46,1,3000,5535.0,1,46,0
+3,Forklift,Battery,399000,4096,32,1,3000,8591.0,1,32,0
+3,Forklift,Wiring Harness,399000,2396,31,0,2396,12281.0,1,31,0
+3,Forklift,Brake System,402000,7173,46,2,3000,2535.0,1,46,0
+3,Forklift,Battery,402000,7096,32,2,3000,5591.0,1,32,0
+3,Forklift,Wiring Harness,402000,5396,31,1,3000,9281.0,1,31,0
+3,Forklift,Brake System,404535,9708,46,3,2535,0.0,2,46,1
+3,Forklift,Wiring Harness,405000,8396,31,2,3000,6281.0,1,31,0
+3,Forklift,Brake System,405000,465,47,0,465,3091.0,1,47,0
+3,Forklift,Battery,405000,10096,32,3,3000,2591.0,1,32,0
+3,Forklift,Battery,407591,12687,32,4,2591,0.0,2,32,1
+3,Forklift,Wiring Harness,408000,11396,31,3,3000,3281.0,1,31,0
+3,Forklift,Brake System,408000,3465,47,1,3000,91.0,1,47,0
+3,Forklift,Brake System,408091,3556,47,2,91,0.0,2,47,1
+3,Forklift,Wiring Harness,411000,14396,31,4,3000,281.0,1,31,0
+3,Forklift,Wiring Harness,411281,14677,31,5,281,0.0,2,31,1
+4,Forklift,Wiring Harness,333000,13462,25,4,3000,1731.0,1,25,0
+4,Forklift,Wiring Harness,334731,15193,25,5,1731,0.0,2,25,1
+4,Forklift,Wiring Harness,336000,1269,26,0,1269,12747.0,1,26,0
+4,Forklift,Brake System,336000,6846,38,2,3000,2367.0,1,38,0
+4,Forklift,Battery,336000,12349,26,4,3000,356.0,1,26,0
+4,Forklift,Battery,336356,12705,26,5,356,0.0,2,26,1
+4,Forklift,Brake System,338367,9213,38,3,2367,0.0,2,38,1
+4,Forklift,Brake System,339000,633,39,0,633,8963.0,1,39,0
+4,Forklift,Battery,339000,2644,27,0,2644,10634.0,1,27,0
+4,Forklift,Wiring Harness,339000,4269,26,1,3000,9747.0,1,26,0
+4,Forklift,Brake System,342000,3633,39,1,3000,5963.0,1,39,0
+4,Forklift,Battery,342000,5644,27,1,3000,7634.0,1,27,0
+4,Forklift,Wiring Harness,342000,7269,26,2,3000,6747.0,1,26,0
+4,Forklift,Brake System,345000,6633,39,2,3000,2963.0,1,39,0
+4,Forklift,Battery,345000,8644,27,2,3000,4634.0,1,27,0
+4,Forklift,Wiring Harness,345000,10269,26,3,3000,3747.0,1,26,0
+4,Forklift,Brake System,347963,9596,39,3,2963,0.0,2,39,1
+4,Forklift,Brake System,348000,37,40,0,37,9846.0,1,40,0
+4,Forklift,Battery,348000,11644,27,3,3000,1634.0,1,27,0
+4,Forklift,Wiring Harness,348000,13269,26,4,3000,747.0,1,26,0
+4,Forklift,Wiring Harness,348747,14016,26,5,747,0.0,2,26,1
+4,Forklift,Battery,349634,13278,27,4,1634,0.0,2,27,1
+4,Forklift,Wiring Harness,351000,2253,27,0,2253,12242.0,1,27,0
+4,Forklift,Brake System,351000,3037,40,1,3000,6846.0,1,40,0
+4,Forklift,Battery,351000,1366,28,0,1366,10809.0,1,28,0
+4,Forklift,Brake System,354000,6037,40,2,3000,3846.0,1,40,0
+4,Forklift,Battery,354000,4366,28,1,3000,7809.0,1,28,0
+4,Forklift,Wiring Harness,354000,5253,27,1,3000,9242.0,1,27,0
+4,Forklift,Brake System,357000,9037,40,3,3000,846.0,1,40,0
+4,Forklift,Battery,357000,7366,28,2,3000,4809.0,1,28,0
+4,Forklift,Wiring Harness,357000,8253,27,2,3000,6242.0,1,27,0
+4,Forklift,Brake System,357846,9883,40,4,846,0.0,2,40,1
+4,Forklift,Brake System,360000,2154,41,0,2154,3742.0,1,41,0
+4,Forklift,Battery,360000,10366,28,3,3000,1809.0,1,28,0
+4,Forklift,Wiring Harness,360000,11253,27,3,3000,3242.0,1,27,0
+4,Forklift,Battery,361809,12175,28,4,1809,0.0,2,28,1
+4,Forklift,Battery,363000,1191,29,0,1191,11961.0,1,29,0
+4,Forklift,Brake System,363000,5154,41,1,3000,742.0,1,41,0
+4,Forklift,Wiring Harness,363000,14253,27,4,3000,242.0,1,27,0
+4,Forklift,Wiring Harness,363242,14495,27,5,242,0.0,2,27,1
+4,Forklift,Brake System,363742,5896,41,2,742,0.0,2,41,1
+4,Forklift,Brake System,366000,2258,42,0,2258,5479.0,1,42,0
+4,Forklift,Battery,366000,4191,29,1,3000,8961.0,1,29,0
+4,Forklift,Wiring Harness,366000,2758,28,0,2758,12581.0,1,28,0
+4,Forklift,Brake System,369000,5258,42,1,3000,2479.0,1,42,0
+4,Forklift,Battery,369000,7191,29,2,3000,5961.0,1,29,0
+4,Forklift,Wiring Harness,369000,5758,28,1,3000,9581.0,1,28,0
+4,Forklift,Brake System,371479,7737,42,2,2479,0.0,2,42,1
+4,Forklift,Brake System,371979,500,43,0,500,0.0,2,43,1
+4,Forklift,Brake System,372000,21,44,0,21,8586.0,1,44,0
+4,Forklift,Battery,372000,10191,29,3,3000,2961.0,1,29,0
+4,Forklift,Wiring Harness,372000,8758,28,2,3000,6581.0,1,28,0
+4,Forklift,Battery,374961,13152,29,4,2961,0.0,2,29,1
+4,Forklift,Battery,375000,39,30,0,39,12778.0,1,30,0
+4,Forklift,Wiring Harness,375000,11758,28,3,3000,3581.0,1,28,0
+4,Forklift,Brake System,375000,3021,44,1,3000,5586.0,1,44,0
+4,Forklift,Brake System,378000,6021,44,2,3000,2586.0,1,44,0
+4,Forklift,Battery,378000,3039,30,1,3000,9778.0,1,30,0
+4,Forklift,Wiring Harness,378000,14758,28,4,3000,581.0,1,28,0
+4,Forklift,Wiring Harness,378581,15339,28,5,581,0.0,2,28,1
+4,Forklift,Brake System,380586,8607,44,3,2586,0.0,2,44,1
+4,Forklift,Brake System,381000,414,45,0,414,8223.0,1,45,0
+4,Forklift,Battery,381000,6039,30,2,3000,6778.0,1,30,0
+4,Forklift,Wiring Harness,381000,2419,29,0,2419,12696.0,1,29,0
+4,Forklift,Brake System,384000,3414,45,1,3000,5223.0,1,45,0
+4,Forklift,Battery,384000,9039,30,3,3000,3778.0,1,30,0
+4,Forklift,Wiring Harness,384000,5419,29,1,3000,9696.0,1,29,0
+4,Forklift,Wiring Harness,387000,8419,29,2,3000,6696.0,1,29,0
+4,Forklift,Brake System,387000,6414,45,2,3000,2223.0,1,45,0
+4,Forklift,Battery,387000,12039,30,4,3000,778.0,1,30,0
+4,Forklift,Battery,387778,12817,30,5,778,0.0,2,30,1
+4,Forklift,Brake System,389223,8637,45,3,2223,0.0,2,45,1
+4,Forklift,Brake System,390000,777,46,0,777,7942.0,1,46,0
+4,Forklift,Battery,390000,2222,31,0,2222,10908.0,1,31,0
+4,Forklift,Wiring Harness,390000,11419,29,3,3000,3696.0,1,29,0
+4,Forklift,Brake System,393000,3777,46,1,3000,4942.0,1,46,0
+4,Forklift,Battery,393000,5222,31,1,3000,7908.0,1,31,0
+4,Forklift,Wiring Harness,393000,14419,29,4,3000,696.0,1,29,0
+4,Forklift,Wiring Harness,393696,15115,29,5,696,0.0,2,29,1
+4,Forklift,Brake System,396000,6777,46,2,3000,1942.0,1,46,0
+4,Forklift,Battery,396000,8222,31,2,3000,4908.0,1,31,0
+4,Forklift,Wiring Harness,396000,2304,30,0,2304,12696.0,1,30,0
+4,Forklift,Brake System,397942,8719,46,3,1942,0.0,2,46,1
+4,Forklift,Brake System,399000,1058,47,0,1058,8314.0,1,47,0
+4,Forklift,Battery,399000,11222,31,3,3000,1908.0,1,31,0
+4,Forklift,Wiring Harness,399000,5304,30,1,3000,9696.0,1,30,0
+4,Forklift,Battery,400908,13130,31,4,1908,0.0,2,31,1
+4,Forklift,Wiring Harness,402000,8304,30,2,3000,6696.0,1,30,0
+4,Forklift,Brake System,402000,4058,47,1,3000,5314.0,1,47,0
+4,Forklift,Battery,402000,1092,32,0,1092,11994.0,1,32,0
+4,Forklift,Brake System,405000,7058,47,2,3000,2314.0,1,47,0
+4,Forklift,Battery,405000,4092,32,1,3000,8994.0,1,32,0
+4,Forklift,Wiring Harness,405000,11304,30,3,3000,3696.0,1,30,0
+4,Forklift,Brake System,407314,9372,47,3,2314,0.0,2,47,1
+4,Forklift,Brake System,408000,686,48,0,686,8425.0,1,48,0
+4,Forklift,Battery,408000,7092,32,2,3000,5994.0,1,32,0
+4,Forklift,Wiring Harness,408000,14304,30,4,3000,696.0,1,30,0
+4,Forklift,Wiring Harness,408696,15000,30,5,696,0.0,2,30,1
+4,Forklift,Brake System,411000,3686,48,1,3000,5425.0,1,48,0
+4,Forklift,Battery,411000,10092,32,3,3000,2994.0,1,32,0
+4,Forklift,Wiring Harness,411000,2304,31,0,2304,5925.0,1,31,0
+4,Forklift,Battery,413994,13086,32,4,2994,0.0,2,32,1
+4,Forklift,Brake System,414000,6686,48,2,3000,2425.0,1,48,0
+4,Forklift,Wiring Harness,414000,5304,31,1,3000,2925.0,1,31,0
+4,Forklift,Brake System,416425,9111,48,3,2425,0.0,2,48,1
+4,Forklift,Wiring Harness,416925,8229,31,2,2925,0.0,2,31,1
+5,Generator,Wiring Harness,357000,543,25,0,543,15240.0,1,25,0
+5,Generator,Cooling System,360000,7732,29,2,3000,5316.0,1,29,0
+5,Generator,Alternator,360000,13369,26,4,3000,324.0,1,26,0
+5,Generator,Wiring Harness,360000,3543,25,1,3000,12240.0,1,25,0
+5,Generator,Alternator,360324,13693,26,5,324,0.0,2,26,1
+5,Generator,Wiring Harness,363000,6543,25,2,3000,9240.0,1,25,0
+5,Generator,Alternator,363000,2676,27,0,2676,11562.0,1,27,0
+5,Generator,Cooling System,363000,10732,29,3,3000,2316.0,1,29,0
+5,Generator,Cooling System,365316,13048,29,4,2316,0.0,2,29,1
+5,Generator,Cooling System,366000,684,30,0,684,12797.0,1,30,0
+5,Generator,Alternator,366000,5676,27,1,3000,8562.0,1,27,0
+5,Generator,Wiring Harness,366000,9543,25,3,3000,6240.0,1,25,0
+5,Generator,Cooling System,369000,3684,30,1,3000,9797.0,1,30,0
+5,Generator,Alternator,369000,8676,27,2,3000,5562.0,1,27,0
+5,Generator,Wiring Harness,369000,12543,25,4,3000,3240.0,1,25,0
+5,Generator,Wiring Harness,372000,15543,25,5,3000,240.0,1,25,0
+5,Generator,Cooling System,372000,6684,30,2,3000,6797.0,1,30,0
+5,Generator,Alternator,372000,11676,27,3,3000,2562.0,1,27,0
+5,Generator,Wiring Harness,372240,15783,25,6,240,0.0,2,25,1
+5,Generator,Alternator,374562,14238,27,4,2562,0.0,2,27,1
+5,Generator,Wiring Harness,375000,2760,26,0,2760,12443.0,1,26,0
+5,Generator,Cooling System,375000,9684,30,3,3000,3797.0,1,30,0
+5,Generator,Alternator,375000,438,28,0,438,14178.0,1,28,0
+5,Generator,Wiring Harness,378000,5760,26,1,3000,9443.0,1,26,0
+5,Generator,Cooling System,378000,12684,30,4,3000,797.0,1,30,0
+5,Generator,Alternator,378000,3438,28,1,3000,11178.0,1,28,0
+5,Generator,Cooling System,378797,13481,30,5,797,0.0,2,30,1
+5,Generator,Cooling System,381000,2203,31,0,2203,10595.0,1,31,0
+5,Generator,Alternator,381000,6438,28,2,3000,8178.0,1,28,0
+5,Generator,Wiring Harness,381000,8760,26,2,3000,6443.0,1,26,0
+5,Generator,Cooling System,384000,5203,31,1,3000,7595.0,1,31,0
+5,Generator,Alternator,384000,9438,28,3,3000,5178.0,1,28,0
+5,Generator,Wiring Harness,384000,11760,26,3,3000,3443.0,1,26,0
+5,Generator,Cooling System,387000,8203,31,2,3000,4595.0,1,31,0
+5,Generator,Alternator,387000,12438,28,4,3000,2178.0,1,28,0
+5,Generator,Wiring Harness,387000,14760,26,4,3000,443.0,1,26,0
+5,Generator,Wiring Harness,387443,15203,26,5,443,0.0,2,26,1
+5,Generator,Alternator,389178,14616,28,5,2178,0.0,2,28,1
+5,Generator,Wiring Harness,389678,2235,27,0,2235,0.0,2,27,1
+5,Generator,Alternator,390000,822,29,0,822,13529.0,1,29,0
+5,Generator,Wiring Harness,390000,322,28,0,322,13310.0,1,28,0
+5,Generator,Cooling System,390000,11203,31,3,3000,1595.0,1,31,0
+5,Generator,Cooling System,391595,12798,31,4,1595,0.0,2,31,1
+5,Generator,Cooling System,393000,1405,32,0,1405,11606.0,1,32,0
+5,Generator,Alternator,393000,3822,29,1,3000,10529.0,1,29,0
+5,Generator,Wiring Harness,393000,3322,28,1,3000,10310.0,1,28,0
+5,Generator,Cooling System,396000,4405,32,1,3000,8606.0,1,32,0
+5,Generator,Alternator,396000,6822,29,2,3000,7529.0,1,29,0
+5,Generator,Wiring Harness,396000,6322,28,2,3000,7310.0,1,28,0
+5,Generator,Cooling System,399000,7405,32,2,3000,5606.0,1,32,0
+5,Generator,Alternator,399000,9822,29,3,3000,4529.0,1,29,0
+5,Generator,Wiring Harness,399000,9322,28,3,3000,4310.0,1,28,0
+5,Generator,Cooling System,402000,10405,32,3,3000,2606.0,1,32,0
+5,Generator,Alternator,402000,12822,29,4,3000,1529.0,1,29,0
+5,Generator,Wiring Harness,402000,12322,28,4,3000,1310.0,1,28,0
+5,Generator,Wiring Harness,403310,13632,28,5,1310,0.0,2,28,1
+5,Generator,Alternator,403529,14351,29,5,1529,0.0,2,29,1
+5,Generator,Cooling System,404606,13011,32,4,2606,0.0,2,32,1
+5,Generator,Cooling System,405000,394,33,0,394,12882.0,1,33,0
+5,Generator,Alternator,405000,1471,30,0,1471,11532.0,1,30,0
+5,Generator,Wiring Harness,405000,1690,29,0,1690,14572.0,1,29,0
+5,Generator,Cooling System,408000,3394,33,1,3000,9882.0,1,33,0
+5,Generator,Alternator,408000,4471,30,1,3000,8532.0,1,30,0
+5,Generator,Wiring Harness,408000,4690,29,1,3000,11572.0,1,29,0
+5,Generator,Alternator,411000,7471,30,2,3000,5532.0,1,30,0
+5,Generator,Wiring Harness,411000,7690,29,2,3000,8572.0,1,29,0
+5,Generator,Cooling System,411000,6394,33,2,3000,6882.0,1,33,0
+5,Generator,Cooling System,414000,9394,33,3,3000,3882.0,1,33,0
+5,Generator,Alternator,414000,10471,30,3,3000,2532.0,1,30,0
+5,Generator,Wiring Harness,414000,10690,29,3,3000,5572.0,1,29,0
+5,Generator,Alternator,416532,13003,30,4,2532,0.0,2,30,1
+5,Generator,Wiring Harness,417000,13690,29,4,3000,2572.0,1,29,0
+5,Generator,Cooling System,417000,12394,33,4,3000,882.0,1,33,0
+5,Generator,Alternator,417000,468,31,0,468,13332.0,1,31,0
+5,Generator,Cooling System,417882,13276,33,5,882,0.0,2,33,1
+5,Generator,Wiring Harness,419572,16262,29,5,2572,0.0,2,29,1
+5,Generator,Cooling System,420000,2118,34,0,2118,10832.0,1,34,0
+5,Generator,Alternator,420000,3468,31,1,3000,10332.0,1,31,0
+5,Generator,Wiring Harness,420000,428,30,0,428,15140.0,1,30,0
+5,Generator,Cooling System,423000,5118,34,1,3000,7832.0,1,34,0
+5,Generator,Alternator,423000,6468,31,2,3000,7332.0,1,31,0
+5,Generator,Wiring Harness,423000,3428,30,1,3000,12140.0,1,30,0
+5,Generator,Cooling System,426000,8118,34,2,3000,4832.0,1,34,0
+5,Generator,Alternator,426000,9468,31,3,3000,4332.0,1,31,0
+5,Generator,Wiring Harness,426000,6428,30,2,3000,9140.0,1,30,0
+5,Generator,Cooling System,429000,11118,34,3,3000,1832.0,1,34,0
+5,Generator,Alternator,429000,12468,31,4,3000,1332.0,1,31,0
+5,Generator,Wiring Harness,429000,9428,30,3,3000,6140.0,1,30,0
+5,Generator,Alternator,430332,13800,31,5,1332,0.0,2,31,1
+5,Generator,Cooling System,430832,12950,34,4,1832,0.0,2,34,1
+5,Generator,Wiring Harness,432000,12428,30,4,3000,3140.0,1,30,0
+5,Generator,Alternator,432000,1668,32,0,1668,12703.0,1,32,0
+5,Generator,Cooling System,432000,1168,35,0,1168,9719.0,1,35,0
+5,Generator,Cooling System,435000,4168,35,1,3000,6719.0,1,35,0
+5,Generator,Alternator,435000,4668,32,1,3000,9703.0,1,32,0
+5,Generator,Wiring Harness,435000,15428,30,5,3000,140.0,1,30,0
+5,Generator,Wiring Harness,435140,15568,30,6,140,0.0,2,30,1
+5,Generator,Cooling System,438000,7168,35,2,3000,3719.0,1,35,0
+5,Generator,Alternator,438000,7668,32,2,3000,6703.0,1,32,0
+5,Generator,Wiring Harness,438000,2860,31,0,2860,13613.0,1,31,0
+5,Generator,Cooling System,441000,10168,35,3,3000,719.0,1,35,0
+5,Generator,Alternator,441000,10668,32,3,3000,3703.0,1,32,0
+5,Generator,Wiring Harness,441000,5860,31,1,3000,10613.0,1,31,0
+5,Generator,Cooling System,441719,10887,35,4,719,0.0,2,35,1
+5,Generator,Alternator,444000,13668,32,4,3000,703.0,1,32,0
+5,Generator,Wiring Harness,444000,8860,31,2,3000,7613.0,1,31,0
+5,Generator,Alternator,444703,14371,32,5,703,0.0,2,32,1
+5,Generator,Wiring Harness,447000,11860,31,3,3000,4613.0,1,31,0
+5,Generator,Wiring Harness,450000,14860,31,4,3000,1613.0,1,31,0
+5,Generator,Wiring Harness,451613,16473,31,5,1613,0.0,2,31,1
+6,Generator,Cooling System,360000,2972,29,0,2972,10646.0,1,29,0
+6,Generator,Wiring Harness,360000,1111,24,0,1111,14621.0,1,24,0
+6,Generator,Alternator,360000,12880,26,4,3000,912.0,1,26,0
+6,Generator,Alternator,360912,13792,26,5,912,0.0,2,26,1
+6,Generator,Wiring Harness,363000,4111,24,1,3000,11621.0,1,24,0
+6,Generator,Alternator,363000,2088,27,0,2088,11497.0,1,27,0
+6,Generator,Cooling System,363000,5972,29,1,3000,7646.0,1,29,0
+6,Generator,Cooling System,366000,8972,29,2,3000,4646.0,1,29,0
+6,Generator,Wiring Harness,366000,7111,24,2,3000,8621.0,1,24,0
+6,Generator,Alternator,366000,5088,27,1,3000,8497.0,1,27,0
+6,Generator,Cooling System,369000,11972,29,3,3000,1646.0,1,29,0
+6,Generator,Wiring Harness,369000,10111,24,3,3000,5621.0,1,24,0
+6,Generator,Alternator,369000,8088,27,2,3000,5497.0,1,27,0
+6,Generator,Cooling System,370646,13618,29,4,1646,0.0,2,29,1
+6,Generator,Alternator,372000,11088,27,3,3000,2497.0,1,27,0
+6,Generator,Cooling System,372000,1354,30,0,1354,11224.0,1,30,0
+6,Generator,Wiring Harness,372000,13111,24,4,3000,2621.0,1,24,0
+6,Generator,Alternator,374497,13585,27,4,2497,0.0,2,27,1
+6,Generator,Wiring Harness,374621,15732,24,5,2621,0.0,2,24,1
+6,Generator,Cooling System,375000,4354,30,1,3000,8224.0,1,30,0
+6,Generator,Wiring Harness,375000,379,25,0,379,15887.0,1,25,0
+6,Generator,Alternator,375000,503,28,0,503,13033.0,1,28,0
+6,Generator,Alternator,378000,3503,28,1,3000,10033.0,1,28,0
+6,Generator,Wiring Harness,378000,3379,25,1,3000,12887.0,1,25,0
+6,Generator,Cooling System,378000,7354,30,2,3000,5224.0,1,30,0
+6,Generator,Cooling System,381000,10354,30,3,3000,2224.0,1,30,0
+6,Generator,Wiring Harness,381000,6379,25,2,3000,9887.0,1,25,0
+6,Generator,Alternator,381000,6503,28,2,3000,7033.0,1,28,0
+6,Generator,Cooling System,383224,12578,30,4,2224,0.0,2,30,1
+6,Generator,Cooling System,384000,776,31,0,776,12130.0,1,31,0
+6,Generator,Wiring Harness,384000,9379,25,3,3000,6887.0,1,25,0
+6,Generator,Alternator,384000,9503,28,3,3000,4033.0,1,28,0
+6,Generator,Cooling System,387000,3776,31,1,3000,9130.0,1,31,0
+6,Generator,Wiring Harness,387000,12379,25,4,3000,3887.0,1,25,0
+6,Generator,Alternator,387000,12503,28,4,3000,1033.0,1,28,0
+6,Generator,Alternator,388033,13536,28,5,1033,0.0,2,28,1
+6,Generator,Cooling System,390000,6776,31,2,3000,6130.0,1,31,0
+6,Generator,Wiring Harness,390000,15379,25,5,3000,887.0,1,25,0
+6,Generator,Alternator,390000,1967,29,0,1967,10796.0,1,29,0
+6,Generator,Wiring Harness,390887,16266,25,6,887,0.0,2,25,1
+6,Generator,Alternator,393000,4967,29,1,3000,7796.0,1,29,0
+6,Generator,Cooling System,393000,9776,31,3,3000,3130.0,1,31,0
+6,Generator,Wiring Harness,393000,2113,26,0,2113,13477.0,1,26,0
+6,Generator,Cooling System,396000,12776,31,4,3000,130.0,1,31,0
+6,Generator,Wiring Harness,396000,5113,26,1,3000,10477.0,1,26,0
+6,Generator,Alternator,396000,7967,29,2,3000,4796.0,1,29,0
+6,Generator,Cooling System,396130,12906,31,5,130,0.0,2,31,1
+6,Generator,Cooling System,399000,2870,32,0,2870,10793.0,1,32,0
+6,Generator,Wiring Harness,399000,8113,26,2,3000,7477.0,1,26,0
+6,Generator,Alternator,399000,10967,29,3,3000,1796.0,1,29,0
+6,Generator,Alternator,400796,12763,29,4,1796,0.0,2,29,1
+6,Generator,Cooling System,402000,5870,32,1,3000,7793.0,1,32,0
+6,Generator,Wiring Harness,402000,11113,26,3,3000,4477.0,1,26,0
+6,Generator,Alternator,402000,1204,30,0,1204,12772.0,1,30,0
+6,Generator,Cooling System,405000,8870,32,2,3000,4793.0,1,32,0
+6,Generator,Wiring Harness,405000,14113,26,4,3000,1477.0,1,26,0
+6,Generator,Alternator,405000,4204,30,1,3000,9772.0,1,30,0
+6,Generator,Wiring Harness,406477,15590,26,5,1477,0.0,2,26,1
+6,Generator,Cooling System,408000,11870,32,3,3000,1793.0,1,32,0
+6,Generator,Wiring Harness,408000,1523,27,0,1523,14304.0,1,27,0
+6,Generator,Alternator,408000,7204,30,2,3000,6772.0,1,30,0
+6,Generator,Cooling System,409793,13663,32,4,1793,0.0,2,32,1
+6,Generator,Cooling System,411000,1207,33,0,1207,11695.0,1,33,0
+6,Generator,Wiring Harness,411000,4523,27,1,3000,11304.0,1,27,0
+6,Generator,Alternator,411000,10204,30,3,3000,3772.0,1,30,0
+6,Generator,Cooling System,414000,4207,33,1,3000,8695.0,1,33,0
+6,Generator,Wiring Harness,414000,7523,27,2,3000,8304.0,1,27,0
+6,Generator,Alternator,414000,13204,30,4,3000,772.0,1,30,0
+6,Generator,Alternator,414772,13976,30,5,772,0.0,2,30,1
+6,Generator,Cooling System,417000,7207,33,2,3000,5695.0,1,33,0
+6,Generator,Wiring Harness,417000,10523,27,3,3000,5304.0,1,27,0
+6,Generator,Alternator,417000,2228,31,0,2228,12134.0,1,31,0
+6,Generator,Alternator,420000,5228,31,1,3000,9134.0,1,31,0
+6,Generator,Wiring Harness,420000,13523,27,4,3000,2304.0,1,27,0
+6,Generator,Cooling System,420000,10207,33,3,3000,2695.0,1,33,0
+6,Generator,Wiring Harness,422304,15827,27,5,2304,0.0,2,27,1
+6,Generator,Cooling System,422695,12902,33,4,2695,0.0,2,33,1
+6,Generator,Cooling System,423000,305,34,0,305,12378.0,1,34,0
+6,Generator,Wiring Harness,423000,696,28,0,696,15657.0,1,28,0
+6,Generator,Alternator,423000,8228,31,2,3000,6134.0,1,31,0
+6,Generator,Cooling System,426000,3305,34,1,3000,9378.0,1,34,0
+6,Generator,Wiring Harness,426000,3696,28,1,3000,12657.0,1,28,0
+6,Generator,Alternator,426000,11228,31,3,3000,3134.0,1,31,0
+6,Generator,Cooling System,429000,6305,34,2,3000,6378.0,1,34,0
+6,Generator,Wiring Harness,429000,6696,28,2,3000,9657.0,1,28,0
+6,Generator,Alternator,429000,14228,31,4,3000,134.0,1,31,0
+6,Generator,Alternator,429134,14362,31,5,134,0.0,2,31,1
+6,Generator,Wiring Harness,432000,9696,28,3,3000,6657.0,1,28,0
+6,Generator,Alternator,432000,2866,32,0,2866,11076.0,1,32,0
+6,Generator,Cooling System,432000,9305,34,3,3000,3378.0,1,34,0
+6,Generator,Cooling System,435000,12305,34,4,3000,378.0,1,34,0
+6,Generator,Wiring Harness,435000,12696,28,4,3000,3657.0,1,28,0
+6,Generator,Alternator,435000,5866,32,1,3000,8076.0,1,32,0
+6,Generator,Cooling System,435378,12683,34,5,378,0.0,2,34,1
+6,Generator,Cooling System,438000,2622,35,0,2622,10954.0,1,35,0
+6,Generator,Wiring Harness,438000,15696,28,5,3000,657.0,1,28,0
+6,Generator,Alternator,438000,8866,32,2,3000,5076.0,1,32,0
+6,Generator,Wiring Harness,438657,16353,28,6,657,0.0,2,28,1
+6,Generator,Cooling System,441000,5622,35,1,3000,7954.0,1,35,0
+6,Generator,Wiring Harness,441000,2343,29,0,2343,13420.0,1,29,0
+6,Generator,Alternator,441000,11866,32,3,3000,2076.0,1,32,0
+6,Generator,Alternator,443076,13942,32,4,2076,0.0,2,32,1
+6,Generator,Cooling System,444000,8622,35,2,3000,4954.0,1,35,0
+6,Generator,Wiring Harness,444000,5343,29,1,3000,10420.0,1,29,0
+6,Generator,Cooling System,447000,11622,35,3,3000,1954.0,1,35,0
+6,Generator,Wiring Harness,447000,8343,29,2,3000,7420.0,1,29,0
+6,Generator,Cooling System,448954,13576,35,4,1954,0.0,2,35,1
+6,Generator,Wiring Harness,450000,11343,29,3,3000,4420.0,1,29,0
+6,Generator,Wiring Harness,453000,14343,29,4,3000,1420.0,1,29,0
+6,Generator,Wiring Harness,454420,15763,29,5,1420,0.0,2,29,1
+7,Conveyor Belt,Sensors,255000,3210,49,1,3000,2014.0,1,49,0
+7,Conveyor Belt,Belt,255000,6343,36,2,3000,1834.0,1,36,0
+7,Conveyor Belt,Motor,255000,8037,30,2,3000,1514.0,1,30,0
+7,Conveyor Belt,Motor,256514,9551,30,3,1514,0.0,2,30,1
+7,Conveyor Belt,Belt,256834,8177,36,3,1834,0.0,2,36,1
+7,Conveyor Belt,Sensors,257014,5224,49,2,2014,0.0,2,49,1
+7,Conveyor Belt,Sensors,258000,986,50,0,986,3797.0,1,50,0
+7,Conveyor Belt,Belt,258000,1166,37,0,1166,6725.0,1,37,0
+7,Conveyor Belt,Motor,258000,1486,31,0,1486,7995.0,1,31,0
+7,Conveyor Belt,Sensors,261000,3986,50,1,3000,797.0,1,50,0
+7,Conveyor Belt,Belt,261000,4166,37,1,3000,3725.0,1,37,0
+7,Conveyor Belt,Motor,261000,4486,31,1,3000,4995.0,1,31,0
+7,Conveyor Belt,Sensors,261797,4783,50,2,797,0.0,2,50,1
+7,Conveyor Belt,Sensors,264000,2203,51,0,2203,1225.0,1,51,0
+7,Conveyor Belt,Belt,264000,7166,37,2,3000,725.0,1,37,0
+7,Conveyor Belt,Motor,264000,7486,31,2,3000,1995.0,1,31,0
+7,Conveyor Belt,Belt,264725,7891,37,3,725,0.0,2,37,1
+7,Conveyor Belt,Sensors,265225,3428,51,1,1225,0.0,2,51,1
+7,Conveyor Belt,Motor,265995,9481,31,3,1995,0.0,2,31,1
+7,Conveyor Belt,Sensors,267000,1775,52,0,1775,3156.0,1,52,0
+7,Conveyor Belt,Belt,267000,2275,38,0,2275,5818.0,1,38,0
+7,Conveyor Belt,Motor,267000,1005,32,0,1005,8725.0,1,32,0
+7,Conveyor Belt,Sensors,270000,4775,52,1,3000,156.0,1,52,0
+7,Conveyor Belt,Belt,270000,5275,38,1,3000,2818.0,1,38,0
+7,Conveyor Belt,Motor,270000,4005,32,1,3000,5725.0,1,32,0
+7,Conveyor Belt,Sensors,270156,4931,52,2,156,0.0,2,52,1
+7,Conveyor Belt,Belt,272818,8093,38,2,2818,0.0,2,38,1
+7,Conveyor Belt,Sensors,273000,2844,53,0,2844,2502.0,1,53,0
+7,Conveyor Belt,Belt,273000,182,39,0,182,3002.0,1,39,0
+7,Conveyor Belt,Motor,273000,7005,32,2,3000,2725.0,1,32,0
+7,Conveyor Belt,Sensors,275502,5346,53,1,2502,0.0,2,53,1
+7,Conveyor Belt,Motor,275725,9730,32,3,2725,0.0,2,32,1
+7,Conveyor Belt,Motor,276000,275,33,0,275,9369.0,1,33,0
+7,Conveyor Belt,Belt,276000,3182,39,1,3000,2.0,1,39,0
+7,Conveyor Belt,Sensors,276000,498,54,0,498,4737.0,1,54,0
+7,Conveyor Belt,Belt,276002,3184,39,2,2,0.0,2,39,1
+7,Conveyor Belt,Sensors,279000,3498,54,1,3000,1737.0,1,54,0
+7,Conveyor Belt,Belt,279000,2998,40,0,2998,3979.0,1,40,0
+7,Conveyor Belt,Motor,279000,3275,33,1,3000,6369.0,1,33,0
+7,Conveyor Belt,Sensors,280737,5235,54,2,1737,0.0,2,54,1
+7,Conveyor Belt,Sensors,282000,1263,55,0,1263,4245.0,1,55,0
+7,Conveyor Belt,Belt,282000,5998,40,1,3000,979.0,1,40,0
+7,Conveyor Belt,Motor,282000,6275,33,2,3000,3369.0,1,33,0
+7,Conveyor Belt,Belt,282979,6977,40,2,979,0.0,2,40,1
+7,Conveyor Belt,Sensors,285000,4263,55,1,3000,1245.0,1,55,0
+7,Conveyor Belt,Belt,285000,2021,41,0,2021,5682.0,1,41,0
+7,Conveyor Belt,Motor,285000,9275,33,3,3000,369.0,1,33,0
+7,Conveyor Belt,Motor,285369,9644,33,4,369,0.0,2,33,1
+7,Conveyor Belt,Sensors,286245,5508,55,2,1245,0.0,2,55,1
+7,Conveyor Belt,Sensors,288000,1755,56,0,1755,3779.0,1,56,0
+7,Conveyor Belt,Belt,288000,5021,41,1,3000,2682.0,1,41,0
+7,Conveyor Belt,Motor,288000,2631,34,0,2631,7164.0,1,34,0
+7,Conveyor Belt,Belt,290682,7703,41,2,2682,0.0,2,41,1
+7,Conveyor Belt,Sensors,291000,4755,56,1,3000,779.0,1,56,0
+7,Conveyor Belt,Belt,291000,318,42,0,318,7098.0,1,42,0
+7,Conveyor Belt,Motor,291000,5631,34,1,3000,4164.0,1,34,0
+7,Conveyor Belt,Sensors,291779,5534,56,2,779,0.0,2,56,1
+7,Conveyor Belt,Sensors,294000,2221,57,0,2221,3120.0,1,57,0
+7,Conveyor Belt,Belt,294000,3318,42,1,3000,4098.0,1,42,0
+7,Conveyor Belt,Motor,294000,8631,34,2,3000,1164.0,1,34,0
+7,Conveyor Belt,Motor,295164,9795,34,3,1164,0.0,2,34,1
+7,Conveyor Belt,Motor,297000,1836,35,0,1836,7700.0,1,35,0
+7,Conveyor Belt,Sensors,297000,5221,57,1,3000,120.0,1,57,0
+7,Conveyor Belt,Belt,297000,6318,42,2,3000,1098.0,1,42,0
+7,Conveyor Belt,Sensors,297120,5341,57,2,120,0.0,2,57,1
+7,Conveyor Belt,Belt,298098,7416,42,3,1098,0.0,2,42,1
+7,Conveyor Belt,Sensors,300000,2880,58,0,2880,2278.0,1,58,0
+7,Conveyor Belt,Belt,300000,1902,43,0,1902,6341.0,1,43,0
+7,Conveyor Belt,Motor,300000,4836,35,1,3000,4700.0,1,35,0
+7,Conveyor Belt,Sensors,302278,5158,58,1,2278,0.0,2,58,1
+7,Conveyor Belt,Sensors,303000,722,59,0,722,4453.0,1,59,0
+7,Conveyor Belt,Belt,303000,4902,43,1,3000,3341.0,1,43,0
+7,Conveyor Belt,Motor,303000,7836,35,2,3000,1700.0,1,35,0
+7,Conveyor Belt,Motor,304700,9536,35,3,1700,0.0,2,35,1
+7,Conveyor Belt,Motor,305200,500,36,0,500,0.0,2,36,1
+7,Conveyor Belt,Belt,306000,7902,43,2,3000,341.0,1,43,0
+7,Conveyor Belt,Motor,306000,800,37,0,800,8705.0,1,37,0
+7,Conveyor Belt,Sensors,306000,3722,59,1,3000,1453.0,1,59,0
+7,Conveyor Belt,Belt,306341,8243,43,3,341,0.0,2,43,1
+7,Conveyor Belt,Sensors,307453,5175,59,2,1453,0.0,2,59,1
+7,Conveyor Belt,Sensors,309000,1547,60,0,1547,3889.0,1,60,0
+7,Conveyor Belt,Belt,309000,2659,44,0,2659,5161.0,1,44,0
+7,Conveyor Belt,Motor,309000,3800,37,1,3000,5705.0,1,37,0
+7,Conveyor Belt,Sensors,312000,4547,60,1,3000,889.0,1,60,0
+7,Conveyor Belt,Belt,312000,5659,44,1,3000,2161.0,1,44,0
+7,Conveyor Belt,Motor,312000,6800,37,2,3000,2705.0,1,37,0
+7,Conveyor Belt,Sensors,312889,5436,60,2,889,0.0,2,60,1
+7,Conveyor Belt,Belt,314161,7820,44,2,2161,0.0,2,44,1
+7,Conveyor Belt,Motor,314705,9505,37,3,2705,0.0,2,37,1
+7,Conveyor Belt,Sensors,315000,2111,61,0,2111,3008.0,1,61,0
+7,Conveyor Belt,Sensors,318000,5111,61,1,3000,8.0,1,61,0
+7,Conveyor Belt,Sensors,318008,5119,61,2,8,0.0,2,61,1
+8,Conveyor Belt,Belt,255000,5061,35,1,3000,3018.0,1,35,0
+8,Conveyor Belt,Motor,255000,1508,28,0,1508,8130.0,1,28,0
+8,Conveyor Belt,Belt,258000,8061,35,2,3000,18.0,1,35,0
+8,Conveyor Belt,Sensors,258000,4207,52,1,3000,1264.0,1,52,0
+8,Conveyor Belt,Motor,258000,4508,28,1,3000,5130.0,1,28,0
+8,Conveyor Belt,Belt,258018,8079,35,3,18,0.0,2,35,1
+8,Conveyor Belt,Sensors,259264,5471,52,2,1264,0.0,2,52,1
+8,Conveyor Belt,Sensors,261000,1736,53,0,1736,3617.0,1,53,0
+8,Conveyor Belt,Belt,261000,2982,36,0,2982,5101.0,1,36,0
+8,Conveyor Belt,Motor,261000,7508,28,2,3000,2130.0,1,28,0
+8,Conveyor Belt,Motor,263130,9638,28,3,2130,0.0,2,28,1
+8,Conveyor Belt,Sensors,264000,4736,53,1,3000,617.0,1,53,0
+8,Conveyor Belt,Belt,264000,5982,36,1,3000,2101.0,1,36,0
+8,Conveyor Belt,Motor,264000,870,29,0,870,8980.0,1,29,0
+8,Conveyor Belt,Sensors,264617,5353,53,2,617,0.0,2,53,1
+8,Conveyor Belt,Belt,266101,8083,36,2,2101,0.0,2,36,1
+8,Conveyor Belt,Sensors,267000,2383,54,0,2383,2915.0,1,54,0
+8,Conveyor Belt,Belt,267000,899,37,0,899,6564.0,1,37,0
+8,Conveyor Belt,Motor,267000,3870,29,1,3000,5980.0,1,29,0
+8,Conveyor Belt,Sensors,269915,5298,54,1,2915,0.0,2,54,1
+8,Conveyor Belt,Sensors,270000,85,55,0,85,415.0,1,55,0
+8,Conveyor Belt,Belt,270000,3899,37,1,3000,3564.0,1,37,0
+8,Conveyor Belt,Motor,270000,6870,29,2,3000,2980.0,1,29,0
+8,Conveyor Belt,Sensors,270415,500,55,1,415,0.0,2,55,1
+8,Conveyor Belt,Motor,272980,9850,29,3,2980,0.0,2,29,1
+8,Conveyor Belt,Sensors,273000,2585,56,0,2585,2384.0,1,56,0
+8,Conveyor Belt,Belt,273000,6899,37,2,3000,564.0,1,37,0
+8,Conveyor Belt,Motor,273000,20,30,0,20,9861.0,1,30,0
+8,Conveyor Belt,Belt,273564,7463,37,3,564,0.0,2,37,1
+8,Conveyor Belt,Sensors,275384,4969,56,1,2384,0.0,2,56,1
+8,Conveyor Belt,Sensors,276000,616,57,0,616,4820.0,1,57,0
+8,Conveyor Belt,Belt,276000,2436,38,0,2436,5596.0,1,38,0
+8,Conveyor Belt,Motor,276000,3020,30,1,3000,6861.0,1,30,0
+8,Conveyor Belt,Motor,279000,6020,30,2,3000,3861.0,1,30,0
+8,Conveyor Belt,Belt,279000,5436,38,1,3000,2596.0,1,38,0
+8,Conveyor Belt,Sensors,279000,3616,57,1,3000,1820.0,1,57,0
+8,Conveyor Belt,Sensors,280820,5436,57,2,1820,0.0,2,57,1
+8,Conveyor Belt,Belt,281596,8032,38,2,2596,0.0,2,38,1
+8,Conveyor Belt,Sensors,282000,1180,58,0,1180,3808.0,1,58,0
+8,Conveyor Belt,Belt,282000,404,39,0,404,7843.0,1,39,0
+8,Conveyor Belt,Motor,282000,9020,30,3,3000,861.0,1,30,0
+8,Conveyor Belt,Motor,282861,9881,30,4,861,0.0,2,30,1
+8,Conveyor Belt,Sensors,285000,4180,58,1,3000,808.0,1,58,0
+8,Conveyor Belt,Belt,285000,3404,39,1,3000,4843.0,1,39,0
+8,Conveyor Belt,Motor,285000,2139,31,0,2139,7280.0,1,31,0
+8,Conveyor Belt,Sensors,285808,4988,58,2,808,0.0,2,58,1
+8,Conveyor Belt,Sensors,288000,2192,59,0,2192,3340.0,1,59,0
+8,Conveyor Belt,Belt,288000,6404,39,2,3000,1843.0,1,39,0
+8,Conveyor Belt,Motor,288000,5139,31,1,3000,4280.0,1,31,0
+8,Conveyor Belt,Belt,289843,8247,39,3,1843,0.0,2,39,1
+8,Conveyor Belt,Sensors,291000,5192,59,1,3000,340.0,1,59,0
+8,Conveyor Belt,Belt,291000,1157,40,0,1157,6883.0,1,40,0
+8,Conveyor Belt,Motor,291000,8139,31,2,3000,1280.0,1,31,0
+8,Conveyor Belt,Sensors,291340,5532,59,2,340,0.0,2,59,1
+8,Conveyor Belt,Motor,292280,9419,31,3,1280,0.0,2,31,1
+8,Conveyor Belt,Sensors,294000,2660,60,0,2660,2909.0,1,60,0
+8,Conveyor Belt,Belt,294000,4157,40,1,3000,3883.0,1,40,0
+8,Conveyor Belt,Motor,294000,1720,32,0,1720,7790.0,1,32,0
+8,Conveyor Belt,Sensors,296909,5569,60,1,2909,0.0,2,60,1
+8,Conveyor Belt,Sensors,297000,91,61,0,91,5114.0,1,61,0
+8,Conveyor Belt,Belt,297000,7157,40,2,3000,883.0,1,40,0
+8,Conveyor Belt,Motor,297000,4720,32,1,3000,4790.0,1,32,0
+8,Conveyor Belt,Belt,297883,8040,40,3,883,0.0,2,40,1
+8,Conveyor Belt,Motor,300000,7720,32,2,3000,1790.0,1,32,0
+8,Conveyor Belt,Sensors,300000,3091,61,1,3000,2114.0,1,61,0
+8,Conveyor Belt,Belt,300000,2117,41,0,2117,6411.0,1,41,0
+8,Conveyor Belt,Motor,301790,9510,32,3,1790,0.0,2,32,1
+8,Conveyor Belt,Sensors,302114,5205,61,2,2114,0.0,2,61,1
+8,Conveyor Belt,Sensors,303000,886,62,0,886,4310.0,1,62,0
+8,Conveyor Belt,Belt,303000,5117,41,1,3000,3411.0,1,41,0
+8,Conveyor Belt,Motor,303000,1210,33,0,1210,8687.0,1,33,0
+8,Conveyor Belt,Sensors,306000,3886,62,1,3000,1310.0,1,62,0
+8,Conveyor Belt,Belt,306000,8117,41,2,3000,411.0,1,41,0
+8,Conveyor Belt,Motor,306000,4210,33,1,3000,5687.0,1,33,0
+8,Conveyor Belt,Belt,306411,8528,41,3,411,0.0,2,41,1
+8,Conveyor Belt,Sensors,307310,5196,62,2,1310,0.0,2,62,1
+8,Conveyor Belt,Motor,309000,7210,33,2,3000,2687.0,1,33,0
+8,Conveyor Belt,Belt,309000,2589,42,0,2589,5416.0,1,42,0
+8,Conveyor Belt,Sensors,309000,1690,63,0,1690,3817.0,1,63,0
+8,Conveyor Belt,Motor,311687,9897,33,3,2687,0.0,2,33,1
+8,Conveyor Belt,Sensors,312000,4690,63,1,3000,817.0,1,63,0
+8,Conveyor Belt,Belt,312000,5589,42,1,3000,2416.0,1,42,0
+8,Conveyor Belt,Motor,312000,313,34,0,313,9234.0,1,34,0
+8,Conveyor Belt,Sensors,312817,5507,63,2,817,0.0,2,63,1
+8,Conveyor Belt,Belt,314416,8005,42,2,2416,0.0,2,42,1
+8,Conveyor Belt,Sensors,315000,2183,64,0,2183,3167.0,1,64,0
+8,Conveyor Belt,Motor,315000,3313,34,1,3000,6234.0,1,34,0
+8,Conveyor Belt,Sensors,318000,5183,64,1,3000,167.0,1,64,0
+8,Conveyor Belt,Motor,318000,6313,34,2,3000,3234.0,1,34,0
+8,Conveyor Belt,Sensors,318167,5350,64,2,167,0.0,2,64,1
+8,Conveyor Belt,Motor,321000,9313,34,3,3000,234.0,1,34,0
+8,Conveyor Belt,Motor,321234,9547,34,4,234,0.0,2,34,1

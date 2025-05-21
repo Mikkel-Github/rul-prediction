@@ -71,7 +71,6 @@ COSTS = {
 
 # a +/-10% variability in the lifespan for each component
 VARIABILITY = 0.10
-# 500 records for each machine
 MAX_RECORDS = 500
 # fixed interval between machine maintenance services
 SERVICE_INTERVAL = 3000
@@ -144,7 +143,7 @@ def generate_machine_data(machine_id, machine_type):
         )
         adjusted_lifespan = sample_lifespan(
             components_base[failed_component]["lifespan"]
-        ) * (1 + service_boost)
+        ) * (1 + service_boost / 2)
 
         # insert the next failure event
         records.append(

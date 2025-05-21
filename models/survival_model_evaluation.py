@@ -32,7 +32,13 @@ def evaluate_survival_model(model_path, test_path):
             "Test data must include 'RUL' (renamed to 'duration') and 'event_type_encoded' (renamed to 'event')."
         )
 
-    X_test = df[model.params_.index]
+    # X_test = df[model.params_.index]
+    # Ensure same dummies and column order
+    X_test = pd.get_dummies(df)
+    missing_cols = set(model.params_.index) - set(X_test.columns)
+    for col in missing_cols:
+        X_test[col] = 0  # Add missing columns
+    X_test = X_test[model.params_.index]  # Reorder to match training
     durations = df["duration"]
     events = df["event"]
 

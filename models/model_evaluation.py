@@ -56,17 +56,6 @@ def plot_rul_results(y_true, y_pred, model_name):
     plt.tight_layout()
     plt.show()
 
-    # residuals vs predicted
-    plt.figure(figsize=(6, 5))
-    plt.scatter(y_pred, errors, alpha=0.3, edgecolors="k")
-    plt.axhline(0, color="red", linestyle="--")
-    plt.xlabel("Predicted RUL")
-    plt.ylabel("Residual (Error)")
-    plt.title(f"{model_name} - Residuals vs Predicted RUL")
-    plt.grid(True)
-    plt.tight_layout()
-    plt.show()
-
 
 def evaluate_model(model_path, test_csv_path):
     df = pd.read_csv(test_csv_path)
