@@ -40,29 +40,29 @@ def preprocess_data(df: pd.DataFrame, sampling_interval: int = 500):
 
                     # NOTE: removed the interpolating samples as they just confused the models more.
 
-                    for t in range(start + sampling_interval, end, sampling_interval):
-                        num_services = len(
-                            [s for s in service_history if start < s < t]
-                        )
-                        last_service = max(
-                            [s for s in service_history if start < s < t], default=start
-                        )
-                        rows.append(
-                            {
-                                "machine_id": machine_id,
-                                "machine_type": machine_type,
-                                "component": component,
-                                "active_time": t,
-                                "component_age": t - start,
-                                "prev_failures": failure_counts[component],
-                                "num_services_since_install": num_services,
-                                "time_since_last_service": t - last_service,
-                                "RUL": end - t,
-                                "event_type_encoded": 0,
-                                "lifecycle_id": curr_lifecycle,
-                                "is_failure": 0,
-                            }
-                        )
+                    # for t in range(start + sampling_interval, end, sampling_interval):
+                    #     num_services = len(
+                    #         [s for s in service_history if start < s < t]
+                    #     )
+                    #     last_service = max(
+                    #         [s for s in service_history if start < s < t], default=start
+                    #     )
+                    #     rows.append(
+                    #         {
+                    #             "machine_id": machine_id,
+                    #             "machine_type": machine_type,
+                    #             "component": component,
+                    #             "active_time": t,
+                    #             "component_age": t - start,
+                    #             "prev_failures": failure_counts[component],
+                    #             "num_services_since_install": num_services,
+                    #             "time_since_last_service": t - last_service,
+                    #             "RUL": end - t,
+                    #             "event_type_encoded": 0,
+                    #             "lifecycle_id": curr_lifecycle,
+                    #             "is_failure": 0,
+                    #         }
+                    #     )
 
                     num_services = len([s for s in service_history if start < s < end])
                     last_service = max(
