@@ -36,9 +36,9 @@ def assess_risk(
 
     # then output a risk based on how long the component has left out of its full life
     def compute_risk(row):
-        if pd.isna(row["avg_lifespan"]) or row["predicted_rul"] is None:
+        if pd.isna(row["median_lifespan"]) or row["predicted_rul"] is None:
             return "Unknown"
-        ratio = row["predicted_rul"] / row["avg_lifespan"]
+        ratio = row["predicted_rul"] / row["median_lifespan"]
         if ratio <= 0.15:
             return "High Risk"
         elif ratio <= 0.35:

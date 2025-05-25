@@ -1,10 +1,10 @@
 import os
 
 import pandas as pd
+from scripts.preprocess_features import preprocess_data
 
 # from models.random_forest_model import train_random_forest_model
 from models.xgboost_model import train_xgboost_model
-from scripts.preprocess_features import preprocess_data
 
 
 def train_model(machines, events):
@@ -31,14 +31,15 @@ def export_average_lifespans(df_features):
 
     failure_events = df_features[df_features["is_failure"] == 1]
 
-    avg_lifespan_df = (
-        failure_events.groupby(["machine_type", "component"])["component_age"]
-        .mean()
-        .reset_index()
-    )
-    avg_lifespan_df.rename(columns={"component_age": "avg_lifespan"}, inplace=True)
+    grouped = failure_events.groupby(["machine_type", "component"])["component_age"]
+
+    lifespan_df = grouped.agg(
+        avg_lifespan="mean",
+        median_lifespan="median",
+        p25_lifespan=lambda x: x.quantile(0.25),
+    ).reset_index()
 
     output_path = os.path.join("data", "average_lifespan.csv")
     os.makedirs("data", exist_ok=True)
-    avg_lifespan_df.to_csv(output_path, index=False)
+    lifespan_df.to_csv(output_path, index=False)
     print(f"Saved average lifespans to {output_path}")
