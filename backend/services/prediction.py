@@ -80,7 +80,9 @@ def predict_rul_all_machines(machines, events):
 
         machine_result = {
             "machine_id": machine_id,
-            "results": df[["component", "predicted_rul"]].to_dict(orient="records"),
+            "results": df[["component", "component_age", "predicted_rul"]].to_dict(
+                orient="records"
+            ),
         }
         all_results.append(machine_result)
 
